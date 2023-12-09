@@ -128,6 +128,10 @@ ENV/
 env.bak/
 venv.bak/
 
+# yaml files
+.yaml
+.yml
+
 # Spyder project settings
 .spyderproject
 .spyproject
