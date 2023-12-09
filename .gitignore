@@ -129,8 +129,8 @@ env.bak/
 venv.bak/
 
 # yaml files
-.yaml
-.yml
+*.yaml
+*.yml
 
 # Spyder project settings
 .spyderproject
