@@ -12,7 +12,7 @@ import os
 import json
 
 def initialise_agent():
-    db = SQLDatabase.from_uri(f"postgresql+psycopg2://{os.environ['user']}:{os.environ['db_password']}@{os.environ['host']}:{os.environ['port']}/{os.environ['db_name']}")
+    db = SQLDatabase.from_uri(f"postgresql+psycopg2://{os.environ['user']}:{os.environ['db_password']}@{os.environ['host']}:{os.environ['port']}/{os.environ['db_name']}",include_tables=['fund_detail','performance','region','sector'])
     llm = OpenAI(model='gpt-3.5-turbo-instruct',openai_api_key=os.environ['openai_api_key'],temperature=0,streaming=True)
 
     embeddings = OpenAIEmbeddings(openai_api_key=os.environ['openai_api_key'])
