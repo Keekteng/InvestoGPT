@@ -11,6 +11,12 @@ from langchain.agents.agent_toolkits import create_retriever_tool
 import os
 import json
 
+import psycopg2
+import streamlit as st
+import pandas as pd
+from datetime import date
+
+
 def initialise_agent():
     db = SQLDatabase.from_uri(f"postgresql+psycopg2://{os.environ['user']}:{os.environ['db_password']}@{os.environ['host']}:{os.environ['port']}/{os.environ['db_name']}",include_tables=['fund_detail','performance','region','sector'])
     llm = OpenAI(model='gpt-3.5-turbo-instruct',openai_api_key=os.environ['openai_api_key'],temperature=0,streaming=True)
@@ -119,4 +125,151 @@ def initialise_agent():
     )
 
     return agent_executor
+
+def validate_diy_portfolio():
+    # Check for valid input before submitting form
+    fund_list = [st.session_state.fund_1,st.session_state.fund_2,st.session_state.fund_3,st.session_state.fund_4,st.session_state.fund_5]
+    allocation_list = [st.session_state.allocation_1,st.session_state.allocation_2,st.session_state.allocation_3,st.session_state.allocation_4,st.session_state.allocation_5]
+    selected_fund_list = []
+
+    for fund in fund_list:
+        # Check if user selected duplicate funds
+        if fund and fund in selected_fund_list:
+            st.error('You cannot choose duplicate funds')
+            return False
+        else:
+            selected_fund_list.append(fund)
+        
+    if st.session_state.fund_1 or st.session_state.fund_2 or st.session_state.fund_3 or st.session_state.fund_4 or st.session_state.fund_5:
+        total_allocation = 0
+        for fund,allocation in zip(fund_list,allocation_list):
+            # Check if selected fund has a valid % allocation
+            if fund and allocation==0:
+                st.error('A fund cannot have 0% allocation')
+                return False
+            elif fund:
+                total_allocation+=allocation
+        # Check if total allocation adds up to 100%                            
+        if total_allocation!=100:
+            st.error('Total allocation needs to add up to 100%')
+            return False
+        # Check if investment amount is valid
+        if st.session_state.diy_investment_amount < 1000:
+            st.error('Minimum Investment Amount is $1000')
+            return False
+    else:
+        st.error("Please select at least 1 fund!")
+        return False
     
+    return True
+
+def get_portfolio():
+    try:
+        conn = psycopg2.connect(
+            host=os.environ['host'],
+            port=os.environ['port'],
+            database=os.environ['db_name'],
+            user=os.environ['user'],
+            password=os.environ['db_password']
+        )
+
+        # Use a parameterized query to prevent SQL injection
+        query = """
+        SELECT *
+        FROM public.portfolio AS portfolio
+        WHERE portfolio.username = %s;
+        """
+
+        # Execute the query with the username as a parameter
+        with conn.cursor() as cursor:
+            cursor.execute(query, (st.session_state['username'],))
+            rows = cursor.fetchall()
+
+        # Convert the result to a pandas DataFrame
+        df = pd.DataFrame(rows, columns=[desc[0] for desc in cursor.description])
+        return df
+
+    except psycopg2.OperationalError as ex:
+        if 'Connection refused' not in str(ex):
+            print(ex)
+
+
+def create_diy_portfolio():
+    user_portfolio_df = get_portfolio()
+    num_porfolio = user_portfolio_df['portfolio_id'].nunique()
+    new_portfolio_id = 1
+    today_date = date.today()
+    if num_porfolio>0:
+        new_portfolio_id = num_porfolio+1
+
+    try:
+        conn = psycopg2.connect(
+            host = os.environ['host'],
+            port = os.environ['port'],
+            database = os.environ['db_name'],
+            user = os.environ['user'],
+            password = os.environ['db_password']
+        )
+
+        cursor = conn.cursor()
+        
+        if st.session_state.fund_1:
+            amt_allocated = st.session_state['diy_investment_amount']*(st.session_state['allocation_1']/100)
+            cursor.execute(
+            f'''
+            INSERT INTO public.portfolio
+            (date,portfolio_id,username,symbol,buy_price,units,amount_allocated)
+            VALUES
+            ('{today_date}',{new_portfolio_id},'{st.session_state['username']}','{st.session_state['fund_1']}',NULL,NULL,{amt_allocated});
+            '''
+            )
+        
+        if st.session_state.fund_2:
+            amt_allocated = st.session_state['diy_investment_amount']*(st.session_state['allocation_2']/100)
+            cursor.execute(
+            f'''
+            INSERT INTO public.portfolio
+            (date,portfolio_id,username,symbol,buy_price,units,amount_allocated)
+            VALUES
+            ('{today_date}',{new_portfolio_id},'{st.session_state['username']}','{st.session_state['fund_2']}',NULL,NULL,{amt_allocated});
+            '''
+            )
+
+        if st.session_state.fund_3:
+            amt_allocated = st.session_state['diy_investment_amount']*(st.session_state['allocation_3']/100)
+            cursor.execute(
+            f'''
+            INSERT INTO public.portfolio
+            (date,portfolio_id,username,symbol,buy_price,units,amount_allocated)
+            VALUES
+            ('{today_date}',{new_portfolio_id},'{st.session_state['username']}','{st.session_state['fund_3']}',NULL,NULL,{amt_allocated});
+            '''
+            )
+
+        if st.session_state.fund_4:
+            amt_allocated = st.session_state['diy_investment_amount']*(st.session_state['allocation_4']/100)
+            cursor.execute(
+            f'''
+            INSERT INTO public.portfolio
+            (date,portfolio_id,username,symbol,buy_price,units,amount_allocated)
+            VALUES
+            ('{today_date}',{new_portfolio_id},'{st.session_state['username']}','{st.session_state['fund_4']}',NULL,NULL,{amt_allocated});
+            '''
+            )
+
+        if st.session_state.fund_5:
+            amt_allocated = st.session_state['diy_investment_amount']*(st.session_state['allocation_5']/100)
+            cursor.execute(
+            f'''
+            INSERT INTO public.portfolio
+            (date,portfolio_id,username,symbol,buy_price,units,amount_allocated)
+            VALUES
+            ('{today_date}',{new_portfolio_id},'{st.session_state['username']}','{st.session_state['fund_5']}',NULL,NULL,{amt_allocated});
+            '''
+            )
+
+        conn.commit()
+        
+    except psycopg2.OperationalError as ex:
+            if 'Connection refused' not in str(ex):
+                print(ex)
