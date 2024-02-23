@@ -22,11 +22,11 @@ conn = psycopg2.connect(
 
 cursor = conn.cursor()
 
-perf_df = pd.read_csv('../../data/processed/20231212/perf.csv').drop(columns=['Unnamed: 0'])
-fund_detail_df = pd.read_csv('../../data/processed/20231212/fund_detail.csv').drop(columns=['Unnamed: 0'])
-region_df = pd.read_csv('../../data/processed/20231212/region.csv').drop(columns=['Unnamed: 0'])
-sector_df = pd.read_csv('../../data/processed/20231212/sector.csv').drop(columns=['Unnamed: 0'])
-price_df = pd.read_csv('../../data/processed/20231212/price.csv').drop(columns=['Unnamed: 0'])
+perf_df = pd.read_csv('../../data/processed/20240223/perf.csv').drop(columns=['Unnamed: 0'])
+fund_detail_df = pd.read_csv('../../data/processed/20240223/fund_detail.csv').drop(columns=['Unnamed: 0'])
+region_df = pd.read_csv('../../data/processed/20240223/region.csv').drop(columns=['Unnamed: 0'])
+sector_df = pd.read_csv('../../data/processed/20240223/sector.csv').drop(columns=['Unnamed: 0'])
+price_df = pd.read_csv('../../data/processed/20240223/price.csv').drop(columns=['Unnamed: 0'])
 
 dtype_fund_detail = {
     'inception_date': Date
