@@ -42,6 +42,11 @@ region_df.to_sql('region',engine, if_exists='replace')
 sector_df.to_sql('sector',engine,if_exists='replace')
 price_df.to_sql('price',engine,if_exists='replace',dtype=dtype_price)
 
+add_constraint_query = '''
+ALTER TABLE price
+ADD CONSTRAINT unique_symbol_date PRIMARY KEY (symbol,date);
+'''
+
 create_portfolio_table_query = '''
 CREATE TABLE IF NOT EXISTS public.portfolio (
     Date DATE NOT NULL,
@@ -57,6 +62,6 @@ CREATE TABLE IF NOT EXISTS public.portfolio (
 
 cursor.execute(create_portfolio_table_query)
 conn.commit()
+cursor.execute(add_constraint_query)
+conn.commit()
 cursor.close()
-
-
