@@ -4,7 +4,6 @@ import os
 import datetime
 from dateutil import tz
 
-
 from dotenv import load_dotenv
 load_dotenv()
 

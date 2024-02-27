@@ -6,6 +6,7 @@ import re
 import datetime
 from dateutil import tz
 
+
 # def perc_to_decimal(string):
 #     if string:
 #         return round(float((string.strip().replace('%','')))/100,5)
