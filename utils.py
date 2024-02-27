@@ -14,8 +14,11 @@ import json
 import psycopg2
 import streamlit as st
 import pandas as pd
-from datetime import date
+import datetime
+from dateutil import tz
 
+# Global Variable
+today_date = (datetime.datetime.now(tz=tz.gettz('Asia/Singapore'))).strftime('%Y%m%d')
 
 def initialise_agent():
     db = SQLDatabase.from_uri(f"postgresql+psycopg2://{os.environ['user']}:{os.environ['db_password']}@{os.environ['host']}:{os.environ['port']}/{os.environ['db_name']}",include_tables=['fund_detail','performance','region','sector'])
@@ -163,6 +166,23 @@ def validate_diy_portfolio():
     
     return True
 
+@st.cache_data
+def get_latest_price(list_of_symbol):
+    try:
+        # Return the latest price for a list of symbols
+        price_df = pd.read_csv(f'data/processed/{today_date}/price.csv').drop(columns=['Unnamed: 0'])
+        price_df = price_df[price_df['symbol'].isin(list_of_symbol)]
+        price_df['date'] = price_df['date'].astype('datetime64[ns]').dt.date
+        latest_dates = price_df.groupby('symbol')['date'].idxmax()
+        latest_price_df = price_df.loc[latest_dates].reset_index(drop=True)
+        latest_price_df.rename(columns={'price':'latest_price','date':'latest_date'},inplace=True)
+        return latest_price_df
+    
+    except Exception as e:
+        print(e)
+
+
+@st.cache_data
 def get_portfolio():
     try:
         conn = psycopg2.connect(
@@ -198,7 +218,6 @@ def create_diy_portfolio():
     user_portfolio_df = get_portfolio()
     num_porfolio = user_portfolio_df['portfolio_id'].nunique()
     new_portfolio_id = 1
-    today_date = date.today()
     if num_porfolio>0:
         new_portfolio_id = num_porfolio+1
 

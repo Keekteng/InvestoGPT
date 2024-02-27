@@ -6,7 +6,7 @@ import yaml
 from yaml.loader import SafeLoader
 import time
 
-from utils import initialise_agent,create_diy_portfolio,validate_diy_portfolio
+from utils import initialise_agent,create_diy_portfolio,validate_diy_portfolio,get_portfolio,get_latest_price
 from langchain.callbacks import StreamlitCallbackHandler
 
 import pandas as pd
@@ -73,6 +73,21 @@ if st.session_state["authentication_status"]:
     
     if st.session_state.option_menu_1 == 'Portfolio Overview':
         st.title(f'{st.session_state.option_menu_1}')
+        user_portfolio_df = get_portfolio()
+        selected_portfolio_id = st.selectbox('',
+                            options=user_portfolio_df['portfolio_id'].unique(),
+                            placeholder='Select a Portfolio',
+                            index=None,
+                            key='portfolio_select_box')
+        selected_portfolio_df = user_portfolio_df[user_portfolio_df['portfolio_id']==selected_portfolio_id]
+        st.write(selected_portfolio_df)
+        latest_price_df = get_latest_price(selected_portfolio_df['symbol'].unique())
+        st.write(latest_price_df)
+        combined_df = pd.merge(left=selected_portfolio_df,right=latest_price_df,on='symbol')
+        st.write(combined_df)
+
+
+                
         
     if st.session_state.option_menu_1 == 'New Portfolio':
 

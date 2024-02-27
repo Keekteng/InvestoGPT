@@ -29,7 +29,7 @@ from dateutil import tz
 #     return int(float(string.replace(',','').replace('$','')))
 
 
-valid_symbols = pd.read_csv('../../data/processed/20240223/fund_detail.csv')['symbol'].tolist()
+valid_symbols = pd.read_csv('../../data/processed/20240223/fund_detail.csv')['symbol'].unique()
 today_date = (datetime.datetime.now(tz=tz.gettz('Asia/Singapore'))).strftime('%Y%m%d')
 processed_dir = f'../../data/processed/{today_date}'
 
