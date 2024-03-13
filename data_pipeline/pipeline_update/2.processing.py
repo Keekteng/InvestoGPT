@@ -5,7 +5,7 @@ import re
 
 import datetime
 from dateutil import tz
-
+from datetime import timedelta
 
 # def perc_to_decimal(string):
 #     if string:

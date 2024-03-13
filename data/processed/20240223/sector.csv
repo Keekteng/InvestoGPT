@@ -543,1166 +543,1210 @@
 541,VMFVX,Materials,0.06
 542,VMFVX,Real Estate,0.107
 543,VMFVX,Utilities,0.033
-544,VHT,Biotechnology,0.187
-545,VHT,Health Care Distributors,0.025
-546,VHT,Health Care Equipment,0.174
-547,VHT,Health Care Facilities,0.016
-548,VHT,Health Care Services,0.051
-549,VHT,Health Care Supplies,0.011
-550,VHT,Health Care Technology,0.009
-551,VHT,Life Sciences Tools & Services,0.101
-552,VHT,Managed Health Care,0.141
-553,VHT,Pharmaceuticals,0.286
-554,VRTTX,Basic Materials,0.02
-555,VRTTX,Consumer Discretionary,0.141
-556,VRTTX,Consumer Staples,0.051
-557,VRTTX,Energy,0.048
-558,VRTTX,Financials,0.106
-559,VRTTX,Health Care,0.125
-560,VRTTX,Industrials,0.129
-561,VRTTX,Real Estate,0.028
-562,VRTTX,Technology,0.302
-563,VRTTX,Telecommunications,0.023
-564,VRTTX,Utilities,0.027
-565,VIG,Communication Services,0.013
-566,VIG,Consumer Discretionary,0.068
-567,VIG,Consumer Staples,0.123
-568,VIG,Energy,0.032
-569,VIG,Financials,0.183
-570,VIG,Health Care,0.155
-571,VIG,Industrials,0.13
-572,VIG,Information Technology,0.224
-573,VIG,Materials,0.044
-574,VIG,Utilities,0.028
-575,VSGAX,Basic Materials,0.02
-576,VSGAX,Consumer Discretionary,0.16
-577,VSGAX,Consumer Staples,0.036
-578,VSGAX,Energy,0.076
-579,VSGAX,Financials,0.043
-580,VSGAX,Health Care,0.169
-581,VSGAX,Industrials,0.193
-582,VSGAX,Real Estate,0.055
-583,VSGAX,Technology,0.217
-584,VSGAX,Telecommunications,0.017
-585,VSGAX,Utilities,0.014
-586,VWNEX,Communication Services,0.054
-587,VWNEX,Consumer Discretionary,0.077
-588,VWNEX,Consumer Staples,0.064
-589,VWNEX,Energy,0.077
-590,VWNEX,Financials,0.215
-591,VWNEX,Health Care,0.165
-592,VWNEX,Industrials,0.119
-593,VWNEX,Information Technology,0.087
-594,VWNEX,Materials,0.048
-595,VWNEX,Real Estate,0.038
-596,VWNEX,Utilities,0.056
-597,VGIAX,Communication Services,0.083
-598,VGIAX,Consumer Discretionary,0.143
-599,VGIAX,Consumer Staples,0.042
-600,VGIAX,Energy,0.055
-601,VGIAX,Financials,0.127
-602,VGIAX,Health Care,0.124
-603,VGIAX,Industrials,0.092
-604,VGIAX,Information Technology,0.297
-605,VGIAX,Materials,0.014
-606,VGIAX,Real Estate,0.009
-607,VGIAX,Utilities,0.014
-608,VRTVX,Basic Materials,0.043
-609,VRTVX,Consumer Discretionary,0.132
-610,VRTVX,Consumer Staples,0.027
-611,VRTVX,Energy,0.112
-612,VRTVX,Financials,0.25
-613,VRTVX,Health Care,0.079
-614,VRTVX,Industrials,0.146
-615,VRTVX,Real Estate,0.107
-616,VRTVX,Technology,0.051
-617,VRTVX,Telecommunications,0.012
-618,VRTVX,Utilities,0.041
-619,VRNIX,Basic Materials,0.019
-620,VRNIX,Consumer Discretionary,0.141
-621,VRNIX,Consumer Staples,0.052
-622,VRNIX,Energy,0.046
-623,VRNIX,Financials,0.104
-624,VRNIX,Health Care,0.124
-625,VRNIX,Industrials,0.126
-626,VRNIX,Real Estate,0.026
-627,VRNIX,Technology,0.311
-628,VRNIX,Telecommunications,0.024
-629,VRNIX,Utilities,0.027
-630,VWUSX,Communication Services,0.149
-631,VWUSX,Consumer Discretionary,0.187
-632,VWUSX,Consumer Staples,0.011
-633,VWUSX,Energy,0.005
-634,VWUSX,Financials,0.095
-635,VWUSX,Health Care,0.107
-636,VWUSX,Industrials,0.038
-637,VWUSX,Information Technology,0.384
-638,VWUSX,Materials,0.001
-639,VWUSX,Real Estate,0.023
-640,VRVIX,Basic Materials,0.036
-641,VRVIX,Consumer Discretionary,0.085
-642,VRVIX,Consumer Staples,0.079
-643,VRVIX,Energy,0.091
-644,VRVIX,Financials,0.194
-645,VRVIX,Health Care,0.144
-646,VRVIX,Industrials,0.152
-647,VRVIX,Real Estate,0.046
-648,VRVIX,Technology,0.076
-649,VRVIX,Telecommunications,0.043
-650,VRVIX,Utilities,0.054
-651,VSIAX,Basic Materials,0.051
-652,VSIAX,Consumer Discretionary,0.155
-653,VSIAX,Consumer Staples,0.035
-654,VSIAX,Energy,0.059
-655,VSIAX,Financials,0.21
-656,VSIAX,Health Care,0.056
-657,VSIAX,Industrials,0.237
-658,VSIAX,Real Estate,0.084
-659,VSIAX,Technology,0.057
-660,VSIAX,Telecommunications,0.01
-661,VSIAX,Utilities,0.046
-662,VTCIX,Basic Materials,0.018
-663,VTCIX,Consumer Discretionary,0.145
-664,VTCIX,Consumer Staples,0.052
-665,VTCIX,Energy,0.047
-666,VTCIX,Financials,0.102
-667,VTCIX,Health Care,0.123
-668,VTCIX,Industrials,0.128
-669,VTCIX,Real Estate,0.026
-670,VTCIX,Technology,0.313
-671,VTCIX,Telecommunications,0.02
-672,VTCIX,Utilities,0.026
-673,VWNAX,Communication Services,0.076
-674,VWNAX,Consumer Discretionary,0.082
-675,VWNAX,Consumer Staples,0.068
-676,VWNAX,Energy,0.074
-677,VWNAX,Financials,0.18
-678,VWNAX,Health Care,0.16
-679,VWNAX,Industrials,0.096
-680,VWNAX,Information Technology,0.207
-681,VWNAX,Materials,0.029
-682,VWNAX,Real Estate,0.014
-683,VWNAX,Utilities,0.014
-684,VRTIX,Basic Materials,0.039
-685,VRTIX,Consumer Discretionary,0.129
-686,VRTIX,Consumer Staples,0.032
-687,VRTIX,Energy,0.09
-688,VRTIX,Financials,0.154
-689,VRTIX,Health Care,0.141
-690,VRTIX,Industrials,0.186
-691,VRTIX,Real Estate,0.063
-692,VRTIX,Technology,0.122
-693,VRTIX,Telecommunications,0.014
-694,VRTIX,Utilities,0.03
-695,VMVLX,Basic Materials,0.012
-696,VMVLX,Consumer Discretionary,0.049
-697,VMVLX,Consumer Staples,0.117
-698,VMVLX,Energy,0.09
-699,VMVLX,Financials,0.195
-700,VMVLX,Health Care,0.202
-701,VMVLX,Industrials,0.142
-702,VMVLX,Real Estate,0.012
-703,VMVLX,Technology,0.095
-704,VMVLX,Telecommunications,0.046
-705,VMVLX,Utilities,0.04
-706,VHCIX,Biotechnology,0.187
-707,VHCIX,Health Care Distributors,0.025
-708,VHCIX,Health Care Equipment,0.174
-709,VHCIX,Health Care Facilities,0.016
-710,VHCIX,Health Care Services,0.051
-711,VHCIX,Health Care Supplies,0.011
-712,VHCIX,Health Care Technology,0.009
-713,VHCIX,Life Sciences Tools & Services,0.101
-714,VHCIX,Managed Health Care,0.141
-715,VHCIX,Pharmaceuticals,0.286
-716,VLCAX,Basic Materials,0.017
-717,VLCAX,Consumer Discretionary,0.14
-718,VLCAX,Consumer Staples,0.054
-719,VLCAX,Energy,0.045
-720,VLCAX,Financials,0.1
-721,VLCAX,Health Care,0.126
-722,VLCAX,Industrials,0.116
-723,VLCAX,Real Estate,0.023
-724,VLCAX,Technology,0.328
-725,VLCAX,Telecommunications,0.023
-726,VLCAX,Utilities,0.028
-727,VDC,Agricultural Products & Services,0.032
-728,VDC,Brewers,0.007
-729,VDC,Consumer Staples Merchandise Retail,0.213
-730,VDC,Distillers & Vintners,0.026
-731,VDC,Drug Retail,0.007
-732,VDC,Food Distributors,0.027
-733,VDC,Food Retail,0.029
-734,VDC,Household Products,0.198
-735,VDC,Packaged Foods & Meats,0.147
-736,VDC,Personal Care Products,0.037
-737,VDC,Soft Drinks & Non-alcoholic Beverages,0.199
-738,VDC,Tobacco,0.078
-739,VOOG,Communication Services,0.075
-740,VOOG,Consumer Discretionary,0.102
-741,VOOG,Consumer Staples,0.064
-742,VOOG,Energy,0.069
-743,VOOG,Financials,0.075
-744,VOOG,Health Care,0.172
-745,VOOG,Industrials,0.052
-746,VOOG,Information Technology,0.359
-747,VOOG,Materials,0.019
-748,VOOG,Real Estate,0.008
-749,VOOG,Utilities,0.005
-750,VFMFX,Basic Materials,0.044
-751,VFMFX,Consumer Discretionary,0.19
-752,VFMFX,Consumer Staples,0.052
-753,VFMFX,Energy,0.145
-754,VFMFX,Financials,0.14
-755,VFMFX,Health Care,0.085
-756,VFMFX,Industrials,0.172
-757,VFMFX,Real Estate,0.004
-758,VFMFX,Technology,0.146
-759,VFMFX,Telecommunications,0.022
-760,VIS,Aerospace & Defense,0.165
-761,VIS,Agricultural & Farm Machinery,0.03
-762,VIS,Air Freight & Logistics,0.05
-763,VIS,Building Products,0.067
-764,VIS,Cargo Ground Transportation,0.026
-765,VIS,Commercial Printing,0.001
-766,VIS,Construction & Engineering,0.025
-767,VIS,Construction Machinery & Heavy Transportation Equipment,0.06
-768,VIS,Data Processing & Outsourced Services,0.012
-769,VIS,Diversified Support Services,0.024
-770,VIS,Electrical Components & Equipment,0.072
-771,VIS,Environmental & Facilities Services,0.048
-772,VIS,Heavy Electrical Equipment,0.001
-773,VIS,Human Resource & Employment Services,0.048
-774,VIS,Industrial Conglomerates,0.074
-775,VIS,Industrial Machinery & Supplies & Components,0.105
-776,VIS,Marine Transportation,0.002
-777,VIS,Office Services & Supplies,0.003
-778,VIS,Passenger Airlines,0.016
-779,VIS,Passenger Ground Transportation,0.022
-780,VIS,Rail Transportation,0.059
-781,VIS,Research & Consulting Services,0.04
-782,VIS,Security & Alarm Services,0.001
-783,VIS,Trading Companies & Distributors,0.05
-784,VYM,Basic Materials,0.024
-785,VYM,Consumer Discretionary,0.09
-786,VYM,Consumer Staples,0.13
-787,VYM,Energy,0.113
-788,VYM,Financials,0.197
-789,VYM,Health Care,0.123
-790,VYM,Industrials,0.121
-791,VYM,Technology,0.076
-792,VYM,Telecommunications,0.052
-793,VYM,Utilities,0.074
-794,VSTCX,Communication Services,0.025
-795,VSTCX,Consumer Discretionary,0.129
-796,VSTCX,Consumer Staples,0.037
-797,VSTCX,Energy,0.071
-798,VSTCX,Financials,0.167
-799,VSTCX,Health Care,0.122
-800,VSTCX,Industrials,0.195
-801,VSTCX,Information Technology,0.111
-802,VSTCX,Materials,0.051
-803,VSTCX,Real Estate,0.064
-804,VSTCX,Utilities,0.028
-805,VEMPX,Communication Services,0.041
-806,VEMPX,Consumer Discretionary,0.108
-807,VEMPX,Consumer Staples,0.03
-808,VEMPX,Energy,0.055
-809,VEMPX,Financials,0.163
-810,VEMPX,Health Care,0.117
-811,VEMPX,Industrials,0.185
-812,VEMPX,Information Technology,0.182
-813,VEMPX,Materials,0.042
-814,VEMPX,Real Estate,0.058
-815,VEMPX,Utilities,0.019
-816,VHYAX,Basic Materials,0.024
-817,VHYAX,Consumer Discretionary,0.09
-818,VHYAX,Consumer Staples,0.13
-819,VHYAX,Energy,0.113
-820,VHYAX,Financials,0.197
-821,VHYAX,Health Care,0.123
-822,VHYAX,Industrials,0.121
-823,VHYAX,Technology,0.076
-824,VHYAX,Telecommunications,0.052
-825,VHYAX,Utilities,0.074
-826,VRTGX,Basic Materials,0.034
-827,VRTGX,Consumer Discretionary,0.127
-828,VRTGX,Consumer Staples,0.039
-829,VRTGX,Energy,0.066
-830,VRTGX,Financials,0.052
-831,VRTGX,Health Care,0.206
-832,VRTGX,Industrials,0.228
-833,VRTGX,Real Estate,0.016
-834,VRTGX,Technology,0.197
-835,VRTGX,Telecommunications,0.016
-836,VRTGX,Utilities,0.019
-837,VEVFX,Communication Services,0.059
-838,VEVFX,Consumer Discretionary,0.129
-839,VEVFX,Consumer Staples,0.023
-840,VEVFX,Energy,0.074
-841,VEVFX,Financials,0.15
-842,VEVFX,Health Care,0.068
-843,VEVFX,Industrials,0.214
-844,VEVFX,Information Technology,0.088
-845,VEVFX,Materials,0.093
-846,VEVFX,Real Estate,0.09
-847,VEVFX,Utilities,0.012
-848,VMCIX,Basic Materials,0.04
-849,VMCIX,Consumer Discretionary,0.13
-850,VMCIX,Consumer Staples,0.049
-851,VMCIX,Energy,0.056
-852,VMCIX,Financials,0.128
-853,VMCIX,Health Care,0.097
-854,VMCIX,Industrials,0.18
-855,VMCIX,Real Estate,0.084
-856,VMCIX,Technology,0.138
-857,VMCIX,Telecommunications,0.019
-858,VMCIX,Utilities,0.079
-859,VV,Basic Materials,0.017
-860,VV,Consumer Discretionary,0.14
-861,VV,Consumer Staples,0.054
-862,VV,Energy,0.045
-863,VV,Financials,0.1
-864,VV,Health Care,0.126
-865,VV,Industrials,0.116
-866,VV,Real Estate,0.023
-867,VV,Technology,0.328
-868,VV,Telecommunications,0.023
-869,VV,Utilities,0.028
-870,VITNX,Basic Materials,0.02
-871,VITNX,Consumer Discretionary,0.141
-872,VITNX,Consumer Staples,0.052
-873,VITNX,Energy,0.048
-874,VITNX,Financials,0.105
-875,VITNX,Health Care,0.125
-876,VITNX,Industrials,0.128
-877,VITNX,Real Estate,0.028
-878,VITNX,Technology,0.303
-879,VITNX,Telecommunications,0.022
-880,VITNX,Utilities,0.028
-881,VTWG,Basic Materials,0.034
-882,VTWG,Consumer Discretionary,0.127
-883,VTWG,Consumer Staples,0.039
-884,VTWG,Energy,0.066
-885,VTWG,Financials,0.052
-886,VTWG,Health Care,0.206
-887,VTWG,Industrials,0.228
-888,VTWG,Real Estate,0.016
-889,VTWG,Technology,0.197
-890,VTWG,Telecommunications,0.016
-891,VTWG,Utilities,0.019
-892,VO,Basic Materials,0.04
-893,VO,Consumer Discretionary,0.13
-894,VO,Consumer Staples,0.049
-895,VO,Energy,0.056
-896,VO,Financials,0.128
-897,VO,Health Care,0.097
-898,VO,Industrials,0.18
-899,VO,Real Estate,0.084
-900,VO,Technology,0.138
-901,VO,Telecommunications,0.019
-902,VO,Utilities,0.079
-903,MGC,Basic Materials,0.013
-904,MGC,Consumer Discretionary,0.141
-905,MGC,Consumer Staples,0.055
-906,MGC,Energy,0.043
-907,MGC,Financials,0.095
-908,MGC,Health Care,0.131
-909,MGC,Industrials,0.104
-910,MGC,Real Estate,0.011
-911,MGC,Technology,0.365
-912,MGC,Telecommunications,0.024
-913,MGC,Utilities,0.018
-914,VMCPX,Basic Materials,0.04
-915,VMCPX,Consumer Discretionary,0.13
-916,VMCPX,Consumer Staples,0.049
-917,VMCPX,Energy,0.056
-918,VMCPX,Financials,0.128
-919,VMCPX,Health Care,0.097
-920,VMCPX,Industrials,0.18
-921,VMCPX,Real Estate,0.084
-922,VMCPX,Technology,0.138
-923,VMCPX,Telecommunications,0.019
-924,VMCPX,Utilities,0.079
-925,VSGIX,Basic Materials,0.02
-926,VSGIX,Consumer Discretionary,0.16
-927,VSGIX,Consumer Staples,0.036
-928,VSGIX,Energy,0.076
-929,VSGIX,Financials,0.043
-930,VSGIX,Health Care,0.169
-931,VSGIX,Industrials,0.193
-932,VSGIX,Real Estate,0.055
-933,VSGIX,Technology,0.217
-934,VSGIX,Telecommunications,0.017
-935,VSGIX,Utilities,0.014
-936,VFQY,Basic Materials,0.037
-937,VFQY,Consumer Discretionary,0.19
-938,VFQY,Consumer Staples,0.064
-939,VFQY,Energy,0.072
-940,VFQY,Financials,0.151
-941,VFQY,Health Care,0.1
-942,VFQY,Industrials,0.18
-943,VFQY,Real Estate,0.001
-944,VFQY,Technology,0.191
-945,VFQY,Telecommunications,0.014
-946,VMFGX,Communication Services,0.017
-947,VMFGX,Consumer Discretionary,0.137
-948,VMFGX,Consumer Staples,0.043
-949,VMFGX,Energy,0.097
-950,VMFGX,Financials,0.114
-951,VMFGX,Health Care,0.102
-952,VMFGX,Industrials,0.233
-953,VMFGX,Information Technology,0.096
-954,VMFGX,Materials,0.08
-955,VMFGX,Real Estate,0.045
-956,VMFGX,Utilities,0.036
-957,VVIAX,Basic Materials,0.021
-958,VVIAX,Consumer Discretionary,0.055
-959,VVIAX,Consumer Staples,0.109
-960,VVIAX,Energy,0.081
-961,VVIAX,Financials,0.191
-962,VVIAX,Health Care,0.18
-963,VVIAX,Industrials,0.15
-964,VVIAX,Real Estate,0.03
-965,VVIAX,Technology,0.085
-966,VVIAX,Telecommunications,0.039
-967,VVIAX,Utilities,0.059
-968,VCR,Apparel Retail,0.042
-969,VCR,"Apparel, Accessories & Luxury Goods",0.023
-970,VCR,Automobile Manufacturers,0.155
-971,VCR,Automotive Parts & Equipment,0.021
-972,VCR,Automotive Retail,0.038
-973,VCR,Broadline Retail,0.264
-974,VCR,Casinos & Gaming,0.021
-975,VCR,Computer & Electronics Retail,0.005
-976,VCR,Consumer Electronics,0.004
-977,VCR,Distributors,0.01
-978,VCR,Education Services,0.008
-979,VCR,Footwear,0.037
-980,VCR,Home Furnishings,0.004
-981,VCR,Home Improvement Retail,0.094
-982,VCR,Homebuilding,0.035
-983,VCR,Homefurnishing Retail,0.005
-984,VCR,"Hotels, Resorts & Cruise Lines",0.076
-985,VCR,Household Appliances,0.003
-986,VCR,Housewares & Specialties,0.001
-987,VCR,Leisure Facilities,0.005
-988,VCR,Leisure Products,0.01
-989,VCR,Motorcycle Manufacturers,0.001
-990,VCR,Other Specialty Retail,0.021
-991,VCR,Restaurants,0.113
-992,VCR,Specialized Consumer Services,0.006
-993,VCR,Tires & Rubber,0.001
-994,VSMSX,Communication Services,0.029
-995,VSMSX,Consumer Discretionary,0.14
-996,VSMSX,Consumer Staples,0.052
-997,VSMSX,Energy,0.054
-998,VSMSX,Financials,0.183
-999,VSMSX,Health Care,0.102
-1000,VSMSX,Industrials,0.173
-1001,VSMSX,Information Technology,0.121
-1002,VSMSX,Materials,0.05
-1003,VSMSX,Real Estate,0.077
-1004,VSMSX,Utilities,0.019
-1005,VFTAX,Basic Materials,0.017
-1006,VFTAX,Consumer Discretionary,0.158
-1007,VFTAX,Consumer Staples,0.054
-1008,VFTAX,Energy,0.001
-1009,VFTAX,Financials,0.095
-1010,VFTAX,Health Care,0.14
-1011,VFTAX,Industrials,0.095
-1012,VFTAX,Real Estate,0.027
-1013,VFTAX,Technology,0.38
-1014,VFTAX,Telecommunications,0.029
-1015,VFTAX,Utilities,0.004
-1016,MGV,Basic Materials,0.012
-1017,MGV,Consumer Discretionary,0.049
-1018,MGV,Consumer Staples,0.117
-1019,MGV,Energy,0.09
-1020,MGV,Financials,0.195
-1021,MGV,Health Care,0.202
-1022,MGV,Industrials,0.142
-1023,MGV,Real Estate,0.012
-1024,MGV,Technology,0.095
-1025,MGV,Telecommunications,0.046
-1026,MGV,Utilities,0.04
-1027,VTCAX,Advertising,0.034
-1028,VTCAX,Alternative Carriers,0.022
-1029,VTCAX,Broadcasting,0.026
-1030,VTCAX,Cable & Satellite,0.096
-1031,VTCAX,Integrated Telecommunication Services,0.091
-1032,VTCAX,Interactive Home Entertainment,0.034
-1033,VTCAX,Interactive Media & Services,0.494
-1034,VTCAX,Movies & Entertainment,0.147
-1035,VTCAX,Publishing,0.019
-1036,VTCAX,Wireless Telecommunication Services,0.037
-1037,VSIIX,Basic Materials,0.051
-1038,VSIIX,Consumer Discretionary,0.155
-1039,VSIIX,Consumer Staples,0.035
-1040,VSIIX,Energy,0.059
-1041,VSIIX,Financials,0.21
-1042,VSIIX,Health Care,0.056
-1043,VSIIX,Industrials,0.237
-1044,VSIIX,Real Estate,0.084
-1045,VSIIX,Technology,0.057
-1046,VSIIX,Telecommunications,0.01
-1047,VSIIX,Utilities,0.046
-1048,VCSAX,Agricultural Products & Services,0.032
-1049,VCSAX,Brewers,0.007
-1050,VCSAX,Consumer Staples Merchandise Retail,0.213
-1051,VCSAX,Distillers & Vintners,0.026
-1052,VCSAX,Drug Retail,0.007
-1053,VCSAX,Food Distributors,0.027
-1054,VCSAX,Food Retail,0.029
-1055,VCSAX,Household Products,0.198
-1056,VCSAX,Packaged Foods & Meats,0.147
-1057,VCSAX,Personal Care Products,0.037
-1058,VCSAX,Soft Drinks & Non-alcoholic Beverages,0.199
-1059,VCSAX,Tobacco,0.078
-1060,VOE,Basic Materials,0.058
-1061,VOE,Consumer Discretionary,0.124
-1062,VOE,Consumer Staples,0.075
-1063,VOE,Energy,0.036
-1064,VOE,Financials,0.182
-1065,VOE,Health Care,0.079
-1066,VOE,Industrials,0.167
-1067,VOE,Real Estate,0.096
-1068,VOE,Technology,0.052
-1069,VOE,Utilities,0.131
-1070,VTHR,Basic Materials,0.02
-1071,VTHR,Consumer Discretionary,0.141
-1072,VTHR,Consumer Staples,0.051
-1073,VTHR,Energy,0.048
-1074,VTHR,Financials,0.106
-1075,VTHR,Health Care,0.125
-1076,VTHR,Industrials,0.129
-1077,VTHR,Real Estate,0.028
-1078,VTHR,Technology,0.302
-1079,VTHR,Telecommunications,0.023
-1080,VTHR,Utilities,0.027
-1081,VMNFX,Communication Services,0.039
-1082,VMNFX,Consumer Discretionary,0.11
-1083,VMNFX,Consumer Staples,0.048
-1084,VMNFX,Energy,0.061
-1085,VMNFX,Financials,0.157
-1086,VMNFX,Health Care,0.105
-1087,VMNFX,Industrials,0.189
-1088,VMNFX,Information Technology,0.123
-1089,VMNFX,Materials,0.061
-1090,VMNFX,Real Estate,0.077
-1091,VMNFX,Utilities,0.03
-1092,VGWLX,Communication Services,0.051
-1093,VGWLX,Consumer Discretionary,0.068
-1094,VGWLX,Consumer Staples,0.063
-1095,VGWLX,Energy,0.059
-1096,VGWLX,Financials,0.207
-1097,VGWLX,Health Care,0.156
-1098,VGWLX,Industrials,0.131
-1099,VGWLX,Information Technology,0.147
-1100,VGWLX,Materials,0.027
-1101,VGWLX,Real Estate,0.026
-1102,VGWLX,Utilities,0.065
-1103,VMCTX,Basic Materials,0.013
-1104,VMCTX,Consumer Discretionary,0.141
-1105,VMCTX,Consumer Staples,0.055
-1106,VMCTX,Energy,0.043
-1107,VMCTX,Financials,0.095
-1108,VMCTX,Health Care,0.131
-1109,VMCTX,Industrials,0.104
-1110,VMCTX,Real Estate,0.011
-1111,VMCTX,Technology,0.365
-1112,VMCTX,Telecommunications,0.024
-1113,VMCTX,Utilities,0.018
-1114,VWIAX,Consumer Discretionary,0.047
-1115,VWIAX,Consumer Staples,0.14
-1116,VWIAX,Energy,0.122
-1117,VWIAX,Financials,0.164
-1118,VWIAX,Health Care,0.153
-1119,VWIAX,Industrials,0.11
-1120,VWIAX,Information Technology,0.091
-1121,VWIAX,Materials,0.054
-1122,VWIAX,Real Estate,0.043
-1123,VWIAX,Utilities,0.076
-1124,IVOG,Communication Services,0.017
-1125,IVOG,Consumer Discretionary,0.137
-1126,IVOG,Consumer Staples,0.043
-1127,IVOG,Energy,0.097
-1128,IVOG,Financials,0.114
-1129,IVOG,Health Care,0.102
-1130,IVOG,Industrials,0.233
-1131,IVOG,Information Technology,0.096
-1132,IVOG,Materials,0.08
-1133,IVOG,Real Estate,0.045
-1134,IVOG,Utilities,0.036
-1135,VXF,Communication Services,0.041
-1136,VXF,Consumer Discretionary,0.108
-1137,VXF,Consumer Staples,0.03
-1138,VXF,Energy,0.055
-1139,VXF,Financials,0.163
-1140,VXF,Health Care,0.117
-1141,VXF,Industrials,0.185
-1142,VXF,Information Technology,0.182
-1143,VXF,Materials,0.042
-1144,VXF,Real Estate,0.058
-1145,VXF,Utilities,0.019
-1146,VFMF,Basic Materials,0.044
-1147,VFMF,Consumer Discretionary,0.205
-1148,VFMF,Consumer Staples,0.053
-1149,VFMF,Energy,0.141
-1150,VFMF,Financials,0.132
-1151,VFMF,Health Care,0.085
-1152,VFMF,Industrials,0.17
-1153,VFMF,Real Estate,0.004
-1154,VFMF,Technology,0.148
-1155,VFMF,Telecommunications,0.018
-1156,VIOO,Communication Services,0.029
-1157,VIOO,Consumer Discretionary,0.14
-1158,VIOO,Consumer Staples,0.052
-1159,VIOO,Energy,0.054
-1160,VIOO,Financials,0.183
-1161,VIOO,Health Care,0.102
-1162,VIOO,Industrials,0.173
-1163,VIOO,Information Technology,0.121
-1164,VIOO,Materials,0.05
-1165,VIOO,Real Estate,0.077
-1166,VIOO,Utilities,0.019
-1167,VBIAX,Basic Materials,0.02
-1168,VBIAX,Consumer Discretionary,0.141
-1169,VBIAX,Consumer Staples,0.052
-1170,VBIAX,Energy,0.048
-1171,VBIAX,Financials,0.105
-1172,VBIAX,Health Care,0.125
-1173,VBIAX,Industrials,0.128
-1174,VBIAX,Real Estate,0.028
-1175,VBIAX,Technology,0.303
-1176,VBIAX,Telecommunications,0.022
-1177,VBIAX,Utilities,0.028
-1178,VIMAX,Basic Materials,0.04
-1179,VIMAX,Consumer Discretionary,0.13
-1180,VIMAX,Consumer Staples,0.049
-1181,VIMAX,Energy,0.056
-1182,VIMAX,Financials,0.128
-1183,VIMAX,Health Care,0.097
-1184,VIMAX,Industrials,0.18
-1185,VIMAX,Real Estate,0.084
-1186,VIMAX,Technology,0.138
-1187,VIMAX,Telecommunications,0.019
-1188,VIMAX,Utilities,0.079
-1189,VIOV,Communication Services,0.038
-1190,VIOV,Consumer Discretionary,0.196
-1191,VIOV,Consumer Staples,0.037
-1192,VIOV,Energy,0.045
-1193,VIOV,Financials,0.2
-1194,VIOV,Health Care,0.08
-1195,VIOV,Industrials,0.154
-1196,VIOV,Information Technology,0.078
-1197,VIOV,Materials,0.044
-1198,VIOV,Real Estate,0.113
-1199,VIOV,Utilities,0.015
-1200,VITSX,Basic Materials,0.02
-1201,VITSX,Consumer Discretionary,0.141
-1202,VITSX,Consumer Staples,0.051
-1203,VITSX,Energy,0.048
-1204,VITSX,Financials,0.105
-1205,VITSX,Health Care,0.125
-1206,VITSX,Industrials,0.128
-1207,VITSX,Real Estate,0.028
-1208,VITSX,Technology,0.304
-1209,VITSX,Telecommunications,0.022
-1210,VITSX,Utilities,0.028
-1211,VLISX,Basic Materials,0.017
-1212,VLISX,Consumer Discretionary,0.14
-1213,VLISX,Consumer Staples,0.054
-1214,VLISX,Energy,0.045
-1215,VLISX,Financials,0.1
-1216,VLISX,Health Care,0.126
-1217,VLISX,Industrials,0.116
-1218,VLISX,Real Estate,0.023
-1219,VLISX,Technology,0.328
-1220,VLISX,Telecommunications,0.023
-1221,VLISX,Utilities,0.028
-1222,VTI,Basic Materials,0.02
-1223,VTI,Consumer Discretionary,0.141
-1224,VTI,Consumer Staples,0.051
-1225,VTI,Energy,0.048
-1226,VTI,Financials,0.105
-1227,VTI,Health Care,0.125
-1228,VTI,Industrials,0.128
-1229,VTI,Real Estate,0.028
-1230,VTI,Technology,0.304
-1231,VTI,Telecommunications,0.022
-1232,VTI,Utilities,0.028
-1233,VB,Basic Materials,0.038
-1234,VB,Consumer Discretionary,0.158
-1235,VB,Consumer Staples,0.036
-1236,VB,Energy,0.066
-1237,VB,Financials,0.138
-1238,VB,Health Care,0.104
-1239,VB,Industrials,0.218
-1240,VB,Real Estate,0.071
-1241,VB,Technology,0.126
-1242,VB,Telecommunications,0.013
-1243,VB,Utilities,0.032
-1244,VONV,Basic Materials,0.036
-1245,VONV,Consumer Discretionary,0.085
-1246,VONV,Consumer Staples,0.079
-1247,VONV,Energy,0.091
-1248,VONV,Financials,0.194
-1249,VONV,Health Care,0.144
-1250,VONV,Industrials,0.152
-1251,VONV,Real Estate,0.046
-1252,VONV,Technology,0.076
-1253,VONV,Telecommunications,0.043
-1254,VONV,Utilities,0.054
-1255,VNQ,Data Center REITs,0.091
-1256,VNQ,Diversified Real Estate Activities,0.002
-1257,VNQ,Diversified REITs,0.021
-1258,VNQ,Health Care REITs,0.084
-1259,VNQ,Hotel & Resort REITs,0.028
-1260,VNQ,Industrial REITs,0.121
-1261,VNQ,Multi-Family Residential REITs,0.086
-1262,VNQ,Office REITs,0.043
-1263,VNQ,Other Specialized REITs,0.061
-1264,VNQ,Real Estate Development,0.002
-1265,VNQ,Real Estate Operating Companies,0.004
-1266,VNQ,Real Estate Services,0.064
-1267,VNQ,Retail REITs,0.127
-1268,VNQ,Self-Storage REITs,0.062
-1269,VNQ,Single-Family Residential REITs,0.049
-1270,VNQ,Telecom Tower REITs,0.129
-1271,VNQ,Timber REITs,0.025
-1272,VTSAX,Basic Materials,0.02
-1273,VTSAX,Consumer Discretionary,0.141
-1274,VTSAX,Consumer Staples,0.051
-1275,VTSAX,Energy,0.048
-1276,VTSAX,Financials,0.105
-1277,VTSAX,Health Care,0.125
-1278,VTSAX,Industrials,0.128
-1279,VTSAX,Real Estate,0.028
-1280,VTSAX,Technology,0.304
-1281,VTSAX,Telecommunications,0.022
-1282,VTSAX,Utilities,0.028
-1283,VGSLX,Data Center REITs,0.091
-1284,VGSLX,Diversified Real Estate Activities,0.002
-1285,VGSLX,Diversified REITs,0.021
-1286,VGSLX,Health Care REITs,0.084
-1287,VGSLX,Hotel & Resort REITs,0.028
-1288,VGSLX,Industrial REITs,0.121
-1289,VGSLX,Multi-Family Residential REITs,0.086
-1290,VGSLX,Office REITs,0.043
-1291,VGSLX,Other Specialized REITs,0.061
-1292,VGSLX,Real Estate Development,0.002
-1293,VGSLX,Real Estate Operating Companies,0.004
-1294,VGSLX,Real Estate Services,0.064
-1295,VGSLX,Retail REITs,0.127
-1296,VGSLX,Self-Storage REITs,0.062
-1297,VGSLX,Single-Family Residential REITs,0.049
-1298,VGSLX,Telecom Tower REITs,0.129
-1299,VGSLX,Timber REITs,0.025
-1300,VGWIX,Communication Services,0.045
-1301,VGWIX,Consumer Discretionary,0.068
-1302,VGWIX,Consumer Staples,0.071
-1303,VGWIX,Energy,0.1
-1304,VGWIX,Financials,0.236
-1305,VGWIX,Health Care,0.15
-1306,VGWIX,Industrials,0.082
-1307,VGWIX,Information Technology,0.089
-1308,VGWIX,Materials,0.02
-1309,VGWIX,Real Estate,0.017
-1310,VGWIX,Utilities,0.122
-1311,VFVA,Basic Materials,0.064
-1312,VFVA,Consumer Discretionary,0.176
-1313,VFVA,Consumer Staples,0.058
-1314,VFVA,Energy,0.125
-1315,VFVA,Financials,0.269
-1316,VFVA,Health Care,0.075
-1317,VFVA,Industrials,0.133
-1318,VFVA,Real Estate,0.002
-1319,VFVA,Technology,0.058
-1320,VFVA,Telecommunications,0.04
-1321,VRGWX,Basic Materials,0.004
-1322,VRGWX,Consumer Discretionary,0.191
-1323,VRGWX,Consumer Staples,0.029
-1324,VRGWX,Energy,0.007
-1325,VRGWX,Financials,0.025
-1326,VRGWX,Health Care,0.107
-1327,VRGWX,Industrials,0.102
-1328,VRGWX,Real Estate,0.009
-1329,VRGWX,Technology,0.516
-1330,VRGWX,Telecommunications,0.007
-1331,VRGWX,Utilities,0.003
-1332,VWUAX,Communication Services,0.149
-1333,VWUAX,Consumer Discretionary,0.187
-1334,VWUAX,Consumer Staples,0.011
-1335,VWUAX,Energy,0.005
-1336,VWUAX,Financials,0.095
-1337,VWUAX,Health Care,0.107
-1338,VWUAX,Industrials,0.038
-1339,VWUAX,Information Technology,0.384
-1340,VWUAX,Materials,0.001
-1341,VWUAX,Real Estate,0.023
-1342,VFAIX,Asset Management & Custody Banks,0.074
-1343,VFAIX,Commercial & Residential Mortgage Financ,0.005
-1344,VFAIX,Consumer Finance,0.039
-1345,VFAIX,Diversified Banks,0.187
-1346,VFAIX,Diversified Financial Services,0.01
-1347,VFAIX,Financial Exchanges & Data,0.084
-1348,VFAIX,Insurance Brokers,0.05
-1349,VFAIX,Investment Banking & Brokerage,0.069
-1350,VFAIX,Life & Health Insurance,0.035
-1351,VFAIX,Mortgage REITs,0.009
-1352,VFAIX,Multi-line Insurance,0.015
-1353,VFAIX,Multi-Sector Holdings,0.087
-1354,VFAIX,Property & Casualty Insurance,0.081
-1355,VFAIX,Regional Banks,0.067
-1356,VFAIX,Reinsurance,0.008
-1357,VFAIX,Transaction & Payment Processing Service,0.18
-1358,VEXAX,Communication Services,0.041
-1359,VEXAX,Consumer Discretionary,0.108
-1360,VEXAX,Consumer Staples,0.03
-1361,VEXAX,Energy,0.055
-1362,VEXAX,Financials,0.163
-1363,VEXAX,Health Care,0.117
-1364,VEXAX,Industrials,0.185
-1365,VEXAX,Information Technology,0.182
-1366,VEXAX,Materials,0.042
-1367,VEXAX,Real Estate,0.058
-1368,VEXAX,Utilities,0.019
-1369,VBR,Basic Materials,0.051
-1370,VBR,Consumer Discretionary,0.155
-1371,VBR,Consumer Staples,0.035
-1372,VBR,Energy,0.059
-1373,VBR,Financials,0.21
-1374,VBR,Health Care,0.056
-1375,VBR,Industrials,0.237
-1376,VBR,Real Estate,0.084
-1377,VBR,Technology,0.057
-1378,VBR,Telecommunications,0.01
-1379,VBR,Utilities,0.046
-1380,VUIAX,Electric Utilities,0.623
-1381,VUIAX,Gas Utilities,0.043
-1382,VUIAX,Independent Power Producers & Energy Traders,0.021
-1383,VUIAX,Multi-Utilities,0.262
-1384,VUIAX,Renewable Electricity,0.01
-1385,VUIAX,Water Utilities,0.041
-1386,VGHAX,Biotechnology,0.201
-1387,VGHAX,Health Care Equipment,0.1
-1388,VGHAX,Health Care Facilities,0.024
-1389,VGHAX,Health Care Services,0.018
-1390,VGHAX,Health Care Supplies,0.011
-1391,VGHAX,Health Care Technology,0.002
-1392,VGHAX,Life Sciences Tools & Services,0.078
-1393,VGHAX,Managed Health Care,0.155
-1394,VGHAX,Pharmaceuticals,0.41
-1395,VBK,Basic Materials,0.02
-1396,VBK,Consumer Discretionary,0.16
-1397,VBK,Consumer Staples,0.036
-1398,VBK,Energy,0.076
-1399,VBK,Financials,0.043
-1400,VBK,Health Care,0.169
-1401,VBK,Industrials,0.193
-1402,VBK,Real Estate,0.055
-1403,VBK,Technology,0.217
-1404,VBK,Telecommunications,0.017
-1405,VBK,Utilities,0.014
-1406,VGHCX,Biotechnology,0.201
-1407,VGHCX,Health Care Equipment,0.1
-1408,VGHCX,Health Care Facilities,0.024
-1409,VGHCX,Health Care Services,0.018
-1410,VGHCX,Health Care Supplies,0.011
-1411,VGHCX,Health Care Technology,0.002
-1412,VGHCX,Life Sciences Tools & Services,0.078
-1413,VGHCX,Managed Health Care,0.155
-1414,VGHCX,Pharmaceuticals,0.41
-1415,VSPGX,Communication Services,0.075
-1416,VSPGX,Consumer Discretionary,0.102
-1417,VSPGX,Consumer Staples,0.064
-1418,VSPGX,Energy,0.069
-1419,VSPGX,Financials,0.075
-1420,VSPGX,Health Care,0.172
-1421,VSPGX,Industrials,0.052
-1422,VSPGX,Information Technology,0.359
-1423,VSPGX,Materials,0.019
-1424,VSPGX,Real Estate,0.008
-1425,VSPGX,Utilities,0.005
-1426,VIVIX,Basic Materials,0.021
-1427,VIVIX,Consumer Discretionary,0.055
-1428,VIVIX,Consumer Staples,0.109
-1429,VIVIX,Energy,0.081
-1430,VIVIX,Financials,0.191
-1431,VIVIX,Health Care,0.18
-1432,VIVIX,Industrials,0.15
-1433,VIVIX,Real Estate,0.03
-1434,VIVIX,Technology,0.085
-1435,VIVIX,Telecommunications,0.039
-1436,VIVIX,Utilities,0.059
-1437,VSMPX,Basic Materials,0.02
-1438,VSMPX,Consumer Discretionary,0.141
-1439,VSMPX,Consumer Staples,0.051
-1440,VSMPX,Energy,0.048
-1441,VSMPX,Financials,0.105
-1442,VSMPX,Health Care,0.125
-1443,VSMPX,Industrials,0.128
-1444,VSMPX,Real Estate,0.028
-1445,VSMPX,Technology,0.304
-1446,VSMPX,Telecommunications,0.022
-1447,VSMPX,Utilities,0.028
-1448,VGSNX,Data Center REITs,0.091
-1449,VGSNX,Diversified Real Estate Activities,0.002
-1450,VGSNX,Diversified REITs,0.021
-1451,VGSNX,Health Care REITs,0.084
-1452,VGSNX,Hotel & Resort REITs,0.028
-1453,VGSNX,Industrial REITs,0.121
-1454,VGSNX,Multi-Family Residential REITs,0.086
-1455,VGSNX,Office REITs,0.043
-1456,VGSNX,Other Specialized REITs,0.061
-1457,VGSNX,Real Estate Development,0.002
-1458,VGSNX,Real Estate Operating Companies,0.004
-1459,VGSNX,Real Estate Services,0.064
-1460,VGSNX,Retail REITs,0.127
-1461,VGSNX,Self-Storage REITs,0.062
-1462,VGSNX,Single-Family Residential REITs,0.049
-1463,VGSNX,Telecom Tower REITs,0.129
-1464,VGSNX,Timber REITs,0.025
-1465,VMVAX,Basic Materials,0.058
-1466,VMVAX,Consumer Discretionary,0.124
-1467,VMVAX,Consumer Staples,0.075
-1468,VMVAX,Energy,0.036
-1469,VMVAX,Financials,0.182
-1470,VMVAX,Health Care,0.079
-1471,VMVAX,Industrials,0.167
-1472,VMVAX,Real Estate,0.096
-1473,VMVAX,Technology,0.052
-1474,VMVAX,Utilities,0.131
-1475,VMGMX,Basic Materials,0.019
-1476,VMGMX,Consumer Discretionary,0.134
-1477,VMGMX,Consumer Staples,0.021
-1478,VMGMX,Energy,0.08
-1479,VMGMX,Financials,0.068
-1480,VMGMX,Health Care,0.118
-1481,VMGMX,Industrials,0.198
-1482,VMGMX,Real Estate,0.071
-1483,VMGMX,Technology,0.233
-1484,VMGMX,Telecommunications,0.039
-1485,VMGMX,Utilities,0.019
-1486,VINIX,Communication Services,0.087
-1487,VINIX,Consumer Discretionary,0.106
-1488,VINIX,Consumer Staples,0.066
-1489,VINIX,Energy,0.045
-1490,VINIX,Financials,0.127
-1491,VINIX,Health Care,0.132
-1492,VINIX,Industrials,0.083
-1493,VINIX,Information Technology,0.281
-1494,VINIX,Materials,0.024
-1495,VINIX,Real Estate,0.024
-1496,VINIX,Utilities,0.025
-1497,VONE,Basic Materials,0.019
-1498,VONE,Consumer Discretionary,0.141
-1499,VONE,Consumer Staples,0.052
-1500,VONE,Energy,0.046
-1501,VONE,Financials,0.104
-1502,VONE,Health Care,0.124
-1503,VONE,Industrials,0.126
-1504,VONE,Real Estate,0.026
-1505,VONE,Technology,0.311
-1506,VONE,Telecommunications,0.024
-1507,VONE,Utilities,0.027
-1508,VTMFX,Basic Materials,0.016
-1509,VTMFX,Consumer Discretionary,0.143
-1510,VTMFX,Consumer Staples,0.05
-1511,VTMFX,Energy,0.046
-1512,VTMFX,Financials,0.103
-1513,VTMFX,Health Care,0.123
-1514,VTMFX,Industrials,0.127
-1515,VTMFX,Real Estate,0.025
-1516,VTMFX,Technology,0.314
-1517,VTMFX,Telecommunications,0.024
-1518,VTMFX,Utilities,0.029
-1519,VMGRX,Communication Services,0.048
-1520,VMGRX,Consumer Discretionary,0.093
-1521,VMGRX,Consumer Staples,0.028
-1522,VMGRX,Energy,0.044
-1523,VMGRX,Financials,0.102
-1524,VMGRX,Health Care,0.196
-1525,VMGRX,Industrials,0.209
-1526,VMGRX,Information Technology,0.243
-1527,VMGRX,Materials,0.02
-1528,VMGRX,Real Estate,0.017
-1529,VOO,Communication Services,0.087
-1530,VOO,Consumer Discretionary,0.106
-1531,VOO,Consumer Staples,0.066
-1532,VOO,Energy,0.045
-1533,VOO,Financials,0.127
-1534,VOO,Health Care,0.132
-1535,VOO,Industrials,0.083
-1536,VOO,Information Technology,0.281
-1537,VOO,Materials,0.024
-1538,VOO,Real Estate,0.024
-1539,VOO,Utilities,0.025
-1540,VSGNX,Communication Services,0.021
-1541,VSGNX,Consumer Discretionary,0.08
-1542,VSGNX,Consumer Staples,0.067
-1543,VSGNX,Energy,0.062
-1544,VSGNX,Financials,0.165
-1545,VSGNX,Health Care,0.126
-1546,VSGNX,Industrials,0.192
-1547,VSGNX,Information Technology,0.165
-1548,VSGNX,Materials,0.059
-1549,VSGNX,Real Estate,0.039
-1550,VSGNX,Utilities,0.024
-1551,VGENX,Information Technology,0.006
-1552,VGENX,Integrated Oil & Gas,0.361
-1553,VGENX,Materials,0.004
-1554,VGENX,Oil & Gas Equipment & Services,0.039
-1555,VGENX,Oil & Gas Exploration & Production,0.158
-1556,VGENX,Oil & Gas Refining & Marketing,0.049
-1557,VGENX,Oil & Gas Storage & Transportation,0.065
-1558,VGENX,Utilities,0.319
-1559,ESGV,Basic Materials,0.018
-1560,ESGV,Consumer Discretionary,0.158
-1561,ESGV,Consumer Staples,0.053
-1562,ESGV,Energy,0.001
-1563,ESGV,Financials,0.102
-1564,ESGV,Health Care,0.139
-1565,ESGV,Industrials,0.106
-1566,ESGV,Real Estate,0.032
-1567,ESGV,Technology,0.358
-1568,ESGV,Telecommunications,0.027
-1569,ESGV,Utilities,0.006
-1570,VSCPX,Basic Materials,0.038
-1571,VSCPX,Consumer Discretionary,0.158
-1572,VSCPX,Consumer Staples,0.036
-1573,VSCPX,Energy,0.066
-1574,VSCPX,Financials,0.138
-1575,VSCPX,Health Care,0.104
-1576,VSCPX,Industrials,0.218
-1577,VSCPX,Real Estate,0.071
-1578,VSCPX,Technology,0.126
-1579,VSCPX,Telecommunications,0.013
-1580,VSCPX,Utilities,0.032
-1581,VEIPX,Communication Services,0.011
-1582,VEIPX,Consumer Discretionary,0.053
-1583,VEIPX,Consumer Staples,0.141
-1584,VEIPX,Energy,0.116
-1585,VEIPX,Financials,0.187
-1586,VEIPX,Health Care,0.154
-1587,VEIPX,Industrials,0.107
-1588,VEIPX,Information Technology,0.086
-1589,VEIPX,Materials,0.044
-1590,VEIPX,Real Estate,0.021
-1591,VEIPX,Utilities,0.08
-1592,VOOV,Communication Services,0.102
-1593,VOOV,Consumer Discretionary,0.111
-1594,VOOV,Consumer Staples,0.069
-1595,VOOV,Energy,0.017
-1596,VOOV,Financials,0.192
-1597,VOOV,Health Care,0.082
-1598,VOOV,Industrials,0.119
-1599,VOOV,Information Technology,0.186
-1600,VOOV,Materials,0.031
-1601,VOOV,Real Estate,0.042
-1602,VOOV,Utilities,0.049
-1603,VSEQX,Communication Services,0.036
-1604,VSEQX,Consumer Discretionary,0.117
-1605,VSEQX,Consumer Staples,0.043
-1606,VSEQX,Energy,0.06
-1607,VSEQX,Financials,0.145
-1608,VSEQX,Health Care,0.106
-1609,VSEQX,Industrials,0.184
-1610,VSEQX,Information Technology,0.136
-1611,VSEQX,Materials,0.058
-1612,VSEQX,Real Estate,0.066
-1613,VSEQX,Utilities,0.049
-1614,VIGAX,Basic Materials,0.014
-1615,VIGAX,Consumer Discretionary,0.21
-1616,VIGAX,Consumer Staples,0.007
-1617,VIGAX,Energy,0.015
-1618,VIGAX,Financials,0.024
-1619,VIGAX,Health Care,0.081
-1620,VIGAX,Industrials,0.088
-1621,VIGAX,Real Estate,0.018
-1622,VIGAX,Technology,0.531
-1623,VIGAX,Telecommunications,0.01
-1624,VIGAX,Utilities,0.002
-1625,VSMVX,Communication Services,0.038
-1626,VSMVX,Consumer Discretionary,0.196
-1627,VSMVX,Consumer Staples,0.037
-1628,VSMVX,Energy,0.045
-1629,VSMVX,Financials,0.2
-1630,VSMVX,Health Care,0.08
-1631,VSMVX,Industrials,0.154
-1632,VSMVX,Information Technology,0.078
-1633,VSMVX,Materials,0.044
-1634,VSMVX,Real Estate,0.113
-1635,VSMVX,Utilities,0.015
-1636,VGT,Application Software,0.151
-1637,VGT,Communications Equipment,0.038
-1638,VGT,Electronic Components,0.011
-1639,VGT,Electronic Equipment & Instruments,0.015
-1640,VGT,Electronic Manufacturing Services,0.012
-1641,VGT,Internet Services & Infrastructure,0.018
-1642,VGT,IT Consulting & Other Services,0.041
-1643,VGT,Semiconductor Materials & Equipment,0.036
-1644,VGT,Semiconductors,0.194
-1645,VGT,Systems Software,0.246
-1646,VGT,Technology Distributors,0.007
-1647,VGT,"Technology Hardware, Storage & Periphera",0.233
-1648,VENAX,Coal & Consumable Fuels,0.005
-1649,VENAX,Integrated Oil & Gas,0.382
-1650,VENAX,Oil & Gas Drilling,0.013
-1651,VENAX,Oil & Gas Equipment & Services,0.106
-1652,VENAX,Oil & Gas Exploration & Production,0.293
-1653,VENAX,Oil & Gas Refining & Marketing,0.098
-1654,VENAX,Oil & Gas Storage & Transportation,0.104
-1655,VEIRX,Communication Services,0.011
-1656,VEIRX,Consumer Discretionary,0.053
-1657,VEIRX,Consumer Staples,0.141
-1658,VEIRX,Energy,0.116
-1659,VEIRX,Financials,0.187
-1660,VEIRX,Health Care,0.154
-1661,VEIRX,Industrials,0.107
-1662,VEIRX,Information Technology,0.086
-1663,VEIRX,Materials,0.044
-1664,VEIRX,Real Estate,0.021
-1665,VEIRX,Utilities,0.08
-1666,VGELX,Information Technology,0.006
-1667,VGELX,Integrated Oil & Gas,0.361
-1668,VGELX,Materials,0.004
-1669,VGELX,Oil & Gas Equipment & Services,0.039
-1670,VGELX,Oil & Gas Exploration & Production,0.158
-1671,VGELX,Oil & Gas Refining & Marketing,0.049
-1672,VGELX,Oil & Gas Storage & Transportation,0.065
-1673,VGELX,Utilities,0.319
-1674,VSCIX,Basic Materials,0.038
-1675,VSCIX,Consumer Discretionary,0.158
-1676,VSCIX,Consumer Staples,0.036
-1677,VSCIX,Energy,0.066
-1678,VSCIX,Financials,0.138
-1679,VSCIX,Health Care,0.104
-1680,VSCIX,Industrials,0.218
-1681,VSCIX,Real Estate,0.071
-1682,VSCIX,Technology,0.126
-1683,VSCIX,Telecommunications,0.013
-1684,VSCIX,Utilities,0.032
-1685,VTV,Basic Materials,0.021
-1686,VTV,Consumer Discretionary,0.055
-1687,VTV,Consumer Staples,0.109
-1688,VTV,Energy,0.081
-1689,VTV,Financials,0.191
-1690,VTV,Health Care,0.18
-1691,VTV,Industrials,0.15
-1692,VTV,Real Estate,0.03
-1693,VTV,Technology,0.085
-1694,VTV,Telecommunications,0.039
-1695,VTV,Utilities,0.059
-1696,VITPX,Basic Materials,0.02
-1697,VITPX,Consumer Discretionary,0.141
-1698,VITPX,Consumer Staples,0.052
-1699,VITPX,Energy,0.048
-1700,VITPX,Financials,0.105
-1701,VITPX,Health Care,0.125
-1702,VITPX,Industrials,0.128
-1703,VITPX,Real Estate,0.028
-1704,VITPX,Technology,0.303
-1705,VITPX,Telecommunications,0.022
-1706,VITPX,Utilities,0.028
+544,VPMCX,Communication Services,0.055
+545,VPMCX,Consumer Discretionary,0.11
+546,VPMCX,Consumer Staples,0.003
+547,VPMCX,Energy,0.025
+548,VPMCX,Financials,0.065
+549,VPMCX,Health Care,0.326
+550,VPMCX,Industrials,0.124
+551,VPMCX,Information Technology,0.278
+552,VPMCX,Materials,0.014
+553,VHT,Biotechnology,0.187
+554,VHT,Health Care Distributors,0.025
+555,VHT,Health Care Equipment,0.174
+556,VHT,Health Care Facilities,0.016
+557,VHT,Health Care Services,0.051
+558,VHT,Health Care Supplies,0.011
+559,VHT,Health Care Technology,0.009
+560,VHT,Life Sciences Tools & Services,0.101
+561,VHT,Managed Health Care,0.141
+562,VHT,Pharmaceuticals,0.286
+563,VRTTX,Basic Materials,0.02
+564,VRTTX,Consumer Discretionary,0.141
+565,VRTTX,Consumer Staples,0.051
+566,VRTTX,Energy,0.048
+567,VRTTX,Financials,0.106
+568,VRTTX,Health Care,0.125
+569,VRTTX,Industrials,0.129
+570,VRTTX,Real Estate,0.028
+571,VRTTX,Technology,0.302
+572,VRTTX,Telecommunications,0.023
+573,VRTTX,Utilities,0.027
+574,VIG,Communication Services,0.013
+575,VIG,Consumer Discretionary,0.068
+576,VIG,Consumer Staples,0.123
+577,VIG,Energy,0.032
+578,VIG,Financials,0.183
+579,VIG,Health Care,0.155
+580,VIG,Industrials,0.13
+581,VIG,Information Technology,0.224
+582,VIG,Materials,0.044
+583,VIG,Utilities,0.028
+584,VHCOX,Communication Services,0.056
+585,VHCOX,Consumer Discretionary,0.103
+586,VHCOX,Energy,0.04
+587,VHCOX,Financials,0.069
+588,VHCOX,Health Care,0.344
+589,VHCOX,Industrials,0.112
+590,VHCOX,Information Technology,0.272
+591,VHCOX,Materials,0.004
+592,VSGAX,Basic Materials,0.02
+593,VSGAX,Consumer Discretionary,0.16
+594,VSGAX,Consumer Staples,0.036
+595,VSGAX,Energy,0.076
+596,VSGAX,Financials,0.043
+597,VSGAX,Health Care,0.169
+598,VSGAX,Industrials,0.193
+599,VSGAX,Real Estate,0.055
+600,VSGAX,Technology,0.217
+601,VSGAX,Telecommunications,0.017
+602,VSGAX,Utilities,0.014
+603,VWNEX,Communication Services,0.054
+604,VWNEX,Consumer Discretionary,0.077
+605,VWNEX,Consumer Staples,0.064
+606,VWNEX,Energy,0.077
+607,VWNEX,Financials,0.215
+608,VWNEX,Health Care,0.165
+609,VWNEX,Industrials,0.119
+610,VWNEX,Information Technology,0.087
+611,VWNEX,Materials,0.048
+612,VWNEX,Real Estate,0.038
+613,VWNEX,Utilities,0.056
+614,VGIAX,Communication Services,0.083
+615,VGIAX,Consumer Discretionary,0.143
+616,VGIAX,Consumer Staples,0.042
+617,VGIAX,Energy,0.055
+618,VGIAX,Financials,0.127
+619,VGIAX,Health Care,0.124
+620,VGIAX,Industrials,0.092
+621,VGIAX,Information Technology,0.297
+622,VGIAX,Materials,0.014
+623,VGIAX,Real Estate,0.009
+624,VGIAX,Utilities,0.014
+625,VRTVX,Basic Materials,0.043
+626,VRTVX,Consumer Discretionary,0.132
+627,VRTVX,Consumer Staples,0.027
+628,VRTVX,Energy,0.112
+629,VRTVX,Financials,0.25
+630,VRTVX,Health Care,0.079
+631,VRTVX,Industrials,0.146
+632,VRTVX,Real Estate,0.107
+633,VRTVX,Technology,0.051
+634,VRTVX,Telecommunications,0.012
+635,VRTVX,Utilities,0.041
+636,VRNIX,Basic Materials,0.019
+637,VRNIX,Consumer Discretionary,0.141
+638,VRNIX,Consumer Staples,0.052
+639,VRNIX,Energy,0.046
+640,VRNIX,Financials,0.104
+641,VRNIX,Health Care,0.124
+642,VRNIX,Industrials,0.126
+643,VRNIX,Real Estate,0.026
+644,VRNIX,Technology,0.311
+645,VRNIX,Telecommunications,0.024
+646,VRNIX,Utilities,0.027
+647,VPMAX,Communication Services,0.055
+648,VPMAX,Consumer Discretionary,0.11
+649,VPMAX,Consumer Staples,0.003
+650,VPMAX,Energy,0.025
+651,VPMAX,Financials,0.065
+652,VPMAX,Health Care,0.326
+653,VPMAX,Industrials,0.124
+654,VPMAX,Information Technology,0.278
+655,VPMAX,Materials,0.014
+656,VWUSX,Communication Services,0.149
+657,VWUSX,Consumer Discretionary,0.187
+658,VWUSX,Consumer Staples,0.011
+659,VWUSX,Energy,0.005
+660,VWUSX,Financials,0.095
+661,VWUSX,Health Care,0.107
+662,VWUSX,Industrials,0.038
+663,VWUSX,Information Technology,0.384
+664,VWUSX,Materials,0.001
+665,VWUSX,Real Estate,0.023
+666,VRVIX,Basic Materials,0.036
+667,VRVIX,Consumer Discretionary,0.085
+668,VRVIX,Consumer Staples,0.079
+669,VRVIX,Energy,0.091
+670,VRVIX,Financials,0.194
+671,VRVIX,Health Care,0.144
+672,VRVIX,Industrials,0.152
+673,VRVIX,Real Estate,0.046
+674,VRVIX,Technology,0.076
+675,VRVIX,Telecommunications,0.043
+676,VRVIX,Utilities,0.054
+677,VSIAX,Basic Materials,0.051
+678,VSIAX,Consumer Discretionary,0.155
+679,VSIAX,Consumer Staples,0.035
+680,VSIAX,Energy,0.059
+681,VSIAX,Financials,0.21
+682,VSIAX,Health Care,0.056
+683,VSIAX,Industrials,0.237
+684,VSIAX,Real Estate,0.084
+685,VSIAX,Technology,0.057
+686,VSIAX,Telecommunications,0.01
+687,VSIAX,Utilities,0.046
+688,VTCIX,Basic Materials,0.018
+689,VTCIX,Consumer Discretionary,0.145
+690,VTCIX,Consumer Staples,0.052
+691,VTCIX,Energy,0.047
+692,VTCIX,Financials,0.102
+693,VTCIX,Health Care,0.123
+694,VTCIX,Industrials,0.128
+695,VTCIX,Real Estate,0.026
+696,VTCIX,Technology,0.313
+697,VTCIX,Telecommunications,0.02
+698,VTCIX,Utilities,0.026
+699,VWNAX,Communication Services,0.076
+700,VWNAX,Consumer Discretionary,0.082
+701,VWNAX,Consumer Staples,0.068
+702,VWNAX,Energy,0.074
+703,VWNAX,Financials,0.18
+704,VWNAX,Health Care,0.16
+705,VWNAX,Industrials,0.096
+706,VWNAX,Information Technology,0.207
+707,VWNAX,Materials,0.029
+708,VWNAX,Real Estate,0.014
+709,VWNAX,Utilities,0.014
+710,VRTIX,Basic Materials,0.039
+711,VRTIX,Consumer Discretionary,0.129
+712,VRTIX,Consumer Staples,0.032
+713,VRTIX,Energy,0.09
+714,VRTIX,Financials,0.154
+715,VRTIX,Health Care,0.141
+716,VRTIX,Industrials,0.186
+717,VRTIX,Real Estate,0.063
+718,VRTIX,Technology,0.122
+719,VRTIX,Telecommunications,0.014
+720,VRTIX,Utilities,0.03
+721,VMVLX,Basic Materials,0.012
+722,VMVLX,Consumer Discretionary,0.049
+723,VMVLX,Consumer Staples,0.117
+724,VMVLX,Energy,0.09
+725,VMVLX,Financials,0.195
+726,VMVLX,Health Care,0.202
+727,VMVLX,Industrials,0.142
+728,VMVLX,Real Estate,0.012
+729,VMVLX,Technology,0.095
+730,VMVLX,Telecommunications,0.046
+731,VMVLX,Utilities,0.04
+732,VPCCX,Communication Services,0.055
+733,VPCCX,Consumer Discretionary,0.096
+734,VPCCX,Consumer Staples,0.01
+735,VPCCX,Energy,0.039
+736,VPCCX,Financials,0.092
+737,VPCCX,Health Care,0.302
+738,VPCCX,Industrials,0.145
+739,VPCCX,Information Technology,0.243
+740,VPCCX,Materials,0.017
+741,VPCCX,Real Estate,0.001
+742,VHCIX,Biotechnology,0.187
+743,VHCIX,Health Care Distributors,0.025
+744,VHCIX,Health Care Equipment,0.174
+745,VHCIX,Health Care Facilities,0.016
+746,VHCIX,Health Care Services,0.051
+747,VHCIX,Health Care Supplies,0.011
+748,VHCIX,Health Care Technology,0.009
+749,VHCIX,Life Sciences Tools & Services,0.101
+750,VHCIX,Managed Health Care,0.141
+751,VHCIX,Pharmaceuticals,0.286
+752,VLCAX,Basic Materials,0.017
+753,VLCAX,Consumer Discretionary,0.14
+754,VLCAX,Consumer Staples,0.054
+755,VLCAX,Energy,0.045
+756,VLCAX,Financials,0.1
+757,VLCAX,Health Care,0.126
+758,VLCAX,Industrials,0.116
+759,VLCAX,Real Estate,0.023
+760,VLCAX,Technology,0.328
+761,VLCAX,Telecommunications,0.023
+762,VLCAX,Utilities,0.028
+763,VDC,Agricultural Products & Services,0.032
+764,VDC,Brewers,0.007
+765,VDC,Consumer Staples Merchandise Retail,0.213
+766,VDC,Distillers & Vintners,0.026
+767,VDC,Drug Retail,0.007
+768,VDC,Food Distributors,0.027
+769,VDC,Food Retail,0.029
+770,VDC,Household Products,0.198
+771,VDC,Packaged Foods & Meats,0.147
+772,VDC,Personal Care Products,0.037
+773,VDC,Soft Drinks & Non-alcoholic Beverages,0.199
+774,VDC,Tobacco,0.078
+775,VOOG,Communication Services,0.075
+776,VOOG,Consumer Discretionary,0.102
+777,VOOG,Consumer Staples,0.064
+778,VOOG,Energy,0.069
+779,VOOG,Financials,0.075
+780,VOOG,Health Care,0.172
+781,VOOG,Industrials,0.052
+782,VOOG,Information Technology,0.359
+783,VOOG,Materials,0.019
+784,VOOG,Real Estate,0.008
+785,VOOG,Utilities,0.005
+786,VFMFX,Basic Materials,0.044
+787,VFMFX,Consumer Discretionary,0.19
+788,VFMFX,Consumer Staples,0.052
+789,VFMFX,Energy,0.145
+790,VFMFX,Financials,0.14
+791,VFMFX,Health Care,0.085
+792,VFMFX,Industrials,0.172
+793,VFMFX,Real Estate,0.004
+794,VFMFX,Technology,0.146
+795,VFMFX,Telecommunications,0.022
+796,VIS,Aerospace & Defense,0.165
+797,VIS,Agricultural & Farm Machinery,0.03
+798,VIS,Air Freight & Logistics,0.05
+799,VIS,Building Products,0.067
+800,VIS,Cargo Ground Transportation,0.026
+801,VIS,Commercial Printing,0.001
+802,VIS,Construction & Engineering,0.025
+803,VIS,Construction Machinery & Heavy Transportation Equipment,0.06
+804,VIS,Data Processing & Outsourced Services,0.012
+805,VIS,Diversified Support Services,0.024
+806,VIS,Electrical Components & Equipment,0.072
+807,VIS,Environmental & Facilities Services,0.048
+808,VIS,Heavy Electrical Equipment,0.001
+809,VIS,Human Resource & Employment Services,0.048
+810,VIS,Industrial Conglomerates,0.074
+811,VIS,Industrial Machinery & Supplies & Components,0.105
+812,VIS,Marine Transportation,0.002
+813,VIS,Office Services & Supplies,0.003
+814,VIS,Passenger Airlines,0.016
+815,VIS,Passenger Ground Transportation,0.022
+816,VIS,Rail Transportation,0.059
+817,VIS,Research & Consulting Services,0.04
+818,VIS,Security & Alarm Services,0.001
+819,VIS,Trading Companies & Distributors,0.05
+820,VYM,Basic Materials,0.024
+821,VYM,Consumer Discretionary,0.09
+822,VYM,Consumer Staples,0.13
+823,VYM,Energy,0.113
+824,VYM,Financials,0.197
+825,VYM,Health Care,0.123
+826,VYM,Industrials,0.121
+827,VYM,Technology,0.076
+828,VYM,Telecommunications,0.052
+829,VYM,Utilities,0.074
+830,VSTCX,Communication Services,0.025
+831,VSTCX,Consumer Discretionary,0.129
+832,VSTCX,Consumer Staples,0.037
+833,VSTCX,Energy,0.071
+834,VSTCX,Financials,0.167
+835,VSTCX,Health Care,0.122
+836,VSTCX,Industrials,0.195
+837,VSTCX,Information Technology,0.111
+838,VSTCX,Materials,0.051
+839,VSTCX,Real Estate,0.064
+840,VSTCX,Utilities,0.028
+841,VEMPX,Communication Services,0.041
+842,VEMPX,Consumer Discretionary,0.108
+843,VEMPX,Consumer Staples,0.03
+844,VEMPX,Energy,0.055
+845,VEMPX,Financials,0.163
+846,VEMPX,Health Care,0.117
+847,VEMPX,Industrials,0.185
+848,VEMPX,Information Technology,0.182
+849,VEMPX,Materials,0.042
+850,VEMPX,Real Estate,0.058
+851,VEMPX,Utilities,0.019
+852,VHYAX,Basic Materials,0.024
+853,VHYAX,Consumer Discretionary,0.09
+854,VHYAX,Consumer Staples,0.13
+855,VHYAX,Energy,0.113
+856,VHYAX,Financials,0.197
+857,VHYAX,Health Care,0.123
+858,VHYAX,Industrials,0.121
+859,VHYAX,Technology,0.076
+860,VHYAX,Telecommunications,0.052
+861,VHYAX,Utilities,0.074
+862,VRTGX,Basic Materials,0.034
+863,VRTGX,Consumer Discretionary,0.127
+864,VRTGX,Consumer Staples,0.039
+865,VRTGX,Energy,0.066
+866,VRTGX,Financials,0.052
+867,VRTGX,Health Care,0.206
+868,VRTGX,Industrials,0.228
+869,VRTGX,Real Estate,0.016
+870,VRTGX,Technology,0.197
+871,VRTGX,Telecommunications,0.016
+872,VRTGX,Utilities,0.019
+873,VEVFX,Communication Services,0.059
+874,VEVFX,Consumer Discretionary,0.129
+875,VEVFX,Consumer Staples,0.023
+876,VEVFX,Energy,0.074
+877,VEVFX,Financials,0.15
+878,VEVFX,Health Care,0.068
+879,VEVFX,Industrials,0.214
+880,VEVFX,Information Technology,0.088
+881,VEVFX,Materials,0.093
+882,VEVFX,Real Estate,0.09
+883,VEVFX,Utilities,0.012
+884,VMCIX,Basic Materials,0.04
+885,VMCIX,Consumer Discretionary,0.13
+886,VMCIX,Consumer Staples,0.049
+887,VMCIX,Energy,0.056
+888,VMCIX,Financials,0.128
+889,VMCIX,Health Care,0.097
+890,VMCIX,Industrials,0.18
+891,VMCIX,Real Estate,0.084
+892,VMCIX,Technology,0.138
+893,VMCIX,Telecommunications,0.019
+894,VMCIX,Utilities,0.079
+895,VV,Basic Materials,0.017
+896,VV,Consumer Discretionary,0.14
+897,VV,Consumer Staples,0.054
+898,VV,Energy,0.045
+899,VV,Financials,0.1
+900,VV,Health Care,0.126
+901,VV,Industrials,0.116
+902,VV,Real Estate,0.023
+903,VV,Technology,0.328
+904,VV,Telecommunications,0.023
+905,VV,Utilities,0.028
+906,VITNX,Basic Materials,0.02
+907,VITNX,Consumer Discretionary,0.141
+908,VITNX,Consumer Staples,0.052
+909,VITNX,Energy,0.048
+910,VITNX,Financials,0.105
+911,VITNX,Health Care,0.125
+912,VITNX,Industrials,0.128
+913,VITNX,Real Estate,0.028
+914,VITNX,Technology,0.303
+915,VITNX,Telecommunications,0.022
+916,VITNX,Utilities,0.028
+917,VTWG,Basic Materials,0.034
+918,VTWG,Consumer Discretionary,0.127
+919,VTWG,Consumer Staples,0.039
+920,VTWG,Energy,0.066
+921,VTWG,Financials,0.052
+922,VTWG,Health Care,0.206
+923,VTWG,Industrials,0.228
+924,VTWG,Real Estate,0.016
+925,VTWG,Technology,0.197
+926,VTWG,Telecommunications,0.016
+927,VTWG,Utilities,0.019
+928,VO,Basic Materials,0.04
+929,VO,Consumer Discretionary,0.13
+930,VO,Consumer Staples,0.049
+931,VO,Energy,0.056
+932,VO,Financials,0.128
+933,VO,Health Care,0.097
+934,VO,Industrials,0.18
+935,VO,Real Estate,0.084
+936,VO,Technology,0.138
+937,VO,Telecommunications,0.019
+938,VO,Utilities,0.079
+939,MGC,Basic Materials,0.013
+940,MGC,Consumer Discretionary,0.141
+941,MGC,Consumer Staples,0.055
+942,MGC,Energy,0.043
+943,MGC,Financials,0.095
+944,MGC,Health Care,0.131
+945,MGC,Industrials,0.104
+946,MGC,Real Estate,0.011
+947,MGC,Technology,0.365
+948,MGC,Telecommunications,0.024
+949,MGC,Utilities,0.018
+950,VMCPX,Basic Materials,0.04
+951,VMCPX,Consumer Discretionary,0.13
+952,VMCPX,Consumer Staples,0.049
+953,VMCPX,Energy,0.056
+954,VMCPX,Financials,0.128
+955,VMCPX,Health Care,0.097
+956,VMCPX,Industrials,0.18
+957,VMCPX,Real Estate,0.084
+958,VMCPX,Technology,0.138
+959,VMCPX,Telecommunications,0.019
+960,VMCPX,Utilities,0.079
+961,VSGIX,Basic Materials,0.02
+962,VSGIX,Consumer Discretionary,0.16
+963,VSGIX,Consumer Staples,0.036
+964,VSGIX,Energy,0.076
+965,VSGIX,Financials,0.043
+966,VSGIX,Health Care,0.169
+967,VSGIX,Industrials,0.193
+968,VSGIX,Real Estate,0.055
+969,VSGIX,Technology,0.217
+970,VSGIX,Telecommunications,0.017
+971,VSGIX,Utilities,0.014
+972,VFQY,Basic Materials,0.037
+973,VFQY,Consumer Discretionary,0.19
+974,VFQY,Consumer Staples,0.064
+975,VFQY,Energy,0.072
+976,VFQY,Financials,0.151
+977,VFQY,Health Care,0.1
+978,VFQY,Industrials,0.18
+979,VFQY,Real Estate,0.001
+980,VFQY,Technology,0.191
+981,VFQY,Telecommunications,0.014
+982,VMFGX,Communication Services,0.017
+983,VMFGX,Consumer Discretionary,0.137
+984,VMFGX,Consumer Staples,0.043
+985,VMFGX,Energy,0.097
+986,VMFGX,Financials,0.114
+987,VMFGX,Health Care,0.102
+988,VMFGX,Industrials,0.233
+989,VMFGX,Information Technology,0.096
+990,VMFGX,Materials,0.08
+991,VMFGX,Real Estate,0.045
+992,VMFGX,Utilities,0.036
+993,VVIAX,Basic Materials,0.021
+994,VVIAX,Consumer Discretionary,0.055
+995,VVIAX,Consumer Staples,0.109
+996,VVIAX,Energy,0.081
+997,VVIAX,Financials,0.191
+998,VVIAX,Health Care,0.18
+999,VVIAX,Industrials,0.15
+1000,VVIAX,Real Estate,0.03
+1001,VVIAX,Technology,0.085
+1002,VVIAX,Telecommunications,0.039
+1003,VVIAX,Utilities,0.059
+1004,VCR,Apparel Retail,0.042
+1005,VCR,"Apparel, Accessories & Luxury Goods",0.023
+1006,VCR,Automobile Manufacturers,0.155
+1007,VCR,Automotive Parts & Equipment,0.021
+1008,VCR,Automotive Retail,0.038
+1009,VCR,Broadline Retail,0.264
+1010,VCR,Casinos & Gaming,0.021
+1011,VCR,Computer & Electronics Retail,0.005
+1012,VCR,Consumer Electronics,0.004
+1013,VCR,Distributors,0.01
+1014,VCR,Education Services,0.008
+1015,VCR,Footwear,0.037
+1016,VCR,Home Furnishings,0.004
+1017,VCR,Home Improvement Retail,0.094
+1018,VCR,Homebuilding,0.035
+1019,VCR,Homefurnishing Retail,0.005
+1020,VCR,"Hotels, Resorts & Cruise Lines",0.076
+1021,VCR,Household Appliances,0.003
+1022,VCR,Housewares & Specialties,0.001
+1023,VCR,Leisure Facilities,0.005
+1024,VCR,Leisure Products,0.01
+1025,VCR,Motorcycle Manufacturers,0.001
+1026,VCR,Other Specialty Retail,0.021
+1027,VCR,Restaurants,0.113
+1028,VCR,Specialized Consumer Services,0.006
+1029,VCR,Tires & Rubber,0.001
+1030,VSMSX,Communication Services,0.029
+1031,VSMSX,Consumer Discretionary,0.14
+1032,VSMSX,Consumer Staples,0.052
+1033,VSMSX,Energy,0.054
+1034,VSMSX,Financials,0.183
+1035,VSMSX,Health Care,0.102
+1036,VSMSX,Industrials,0.173
+1037,VSMSX,Information Technology,0.121
+1038,VSMSX,Materials,0.05
+1039,VSMSX,Real Estate,0.077
+1040,VSMSX,Utilities,0.019
+1041,VFTAX,Basic Materials,0.017
+1042,VFTAX,Consumer Discretionary,0.158
+1043,VFTAX,Consumer Staples,0.054
+1044,VFTAX,Energy,0.001
+1045,VFTAX,Financials,0.095
+1046,VFTAX,Health Care,0.14
+1047,VFTAX,Industrials,0.095
+1048,VFTAX,Real Estate,0.027
+1049,VFTAX,Technology,0.38
+1050,VFTAX,Telecommunications,0.029
+1051,VFTAX,Utilities,0.004
+1052,MGV,Basic Materials,0.012
+1053,MGV,Consumer Discretionary,0.049
+1054,MGV,Consumer Staples,0.117
+1055,MGV,Energy,0.09
+1056,MGV,Financials,0.195
+1057,MGV,Health Care,0.202
+1058,MGV,Industrials,0.142
+1059,MGV,Real Estate,0.012
+1060,MGV,Technology,0.095
+1061,MGV,Telecommunications,0.046
+1062,MGV,Utilities,0.04
+1063,VTCAX,Advertising,0.034
+1064,VTCAX,Alternative Carriers,0.022
+1065,VTCAX,Broadcasting,0.026
+1066,VTCAX,Cable & Satellite,0.096
+1067,VTCAX,Integrated Telecommunication Services,0.091
+1068,VTCAX,Interactive Home Entertainment,0.034
+1069,VTCAX,Interactive Media & Services,0.494
+1070,VTCAX,Movies & Entertainment,0.147
+1071,VTCAX,Publishing,0.019
+1072,VTCAX,Wireless Telecommunication Services,0.037
+1073,VSIIX,Basic Materials,0.051
+1074,VSIIX,Consumer Discretionary,0.155
+1075,VSIIX,Consumer Staples,0.035
+1076,VSIIX,Energy,0.059
+1077,VSIIX,Financials,0.21
+1078,VSIIX,Health Care,0.056
+1079,VSIIX,Industrials,0.237
+1080,VSIIX,Real Estate,0.084
+1081,VSIIX,Technology,0.057
+1082,VSIIX,Telecommunications,0.01
+1083,VSIIX,Utilities,0.046
+1084,VCSAX,Agricultural Products & Services,0.032
+1085,VCSAX,Brewers,0.007
+1086,VCSAX,Consumer Staples Merchandise Retail,0.213
+1087,VCSAX,Distillers & Vintners,0.026
+1088,VCSAX,Drug Retail,0.007
+1089,VCSAX,Food Distributors,0.027
+1090,VCSAX,Food Retail,0.029
+1091,VCSAX,Household Products,0.198
+1092,VCSAX,Packaged Foods & Meats,0.147
+1093,VCSAX,Personal Care Products,0.037
+1094,VCSAX,Soft Drinks & Non-alcoholic Beverages,0.199
+1095,VCSAX,Tobacco,0.078
+1096,VOE,Basic Materials,0.058
+1097,VOE,Consumer Discretionary,0.124
+1098,VOE,Consumer Staples,0.075
+1099,VOE,Energy,0.036
+1100,VOE,Financials,0.182
+1101,VOE,Health Care,0.079
+1102,VOE,Industrials,0.167
+1103,VOE,Real Estate,0.096
+1104,VOE,Technology,0.052
+1105,VOE,Utilities,0.131
+1106,VTHR,Basic Materials,0.02
+1107,VTHR,Consumer Discretionary,0.141
+1108,VTHR,Consumer Staples,0.051
+1109,VTHR,Energy,0.048
+1110,VTHR,Financials,0.106
+1111,VTHR,Health Care,0.125
+1112,VTHR,Industrials,0.129
+1113,VTHR,Real Estate,0.028
+1114,VTHR,Technology,0.302
+1115,VTHR,Telecommunications,0.023
+1116,VTHR,Utilities,0.027
+1117,VMNFX,Communication Services,0.039
+1118,VMNFX,Consumer Discretionary,0.11
+1119,VMNFX,Consumer Staples,0.048
+1120,VMNFX,Energy,0.061
+1121,VMNFX,Financials,0.157
+1122,VMNFX,Health Care,0.105
+1123,VMNFX,Industrials,0.189
+1124,VMNFX,Information Technology,0.123
+1125,VMNFX,Materials,0.061
+1126,VMNFX,Real Estate,0.077
+1127,VMNFX,Utilities,0.03
+1128,VGWLX,Communication Services,0.051
+1129,VGWLX,Consumer Discretionary,0.068
+1130,VGWLX,Consumer Staples,0.063
+1131,VGWLX,Energy,0.059
+1132,VGWLX,Financials,0.207
+1133,VGWLX,Health Care,0.156
+1134,VGWLX,Industrials,0.131
+1135,VGWLX,Information Technology,0.147
+1136,VGWLX,Materials,0.027
+1137,VGWLX,Real Estate,0.026
+1138,VGWLX,Utilities,0.065
+1139,VMCTX,Basic Materials,0.013
+1140,VMCTX,Consumer Discretionary,0.141
+1141,VMCTX,Consumer Staples,0.055
+1142,VMCTX,Energy,0.043
+1143,VMCTX,Financials,0.095
+1144,VMCTX,Health Care,0.131
+1145,VMCTX,Industrials,0.104
+1146,VMCTX,Real Estate,0.011
+1147,VMCTX,Technology,0.365
+1148,VMCTX,Telecommunications,0.024
+1149,VMCTX,Utilities,0.018
+1150,VWIAX,Consumer Discretionary,0.047
+1151,VWIAX,Consumer Staples,0.14
+1152,VWIAX,Energy,0.122
+1153,VWIAX,Financials,0.164
+1154,VWIAX,Health Care,0.153
+1155,VWIAX,Industrials,0.11
+1156,VWIAX,Information Technology,0.091
+1157,VWIAX,Materials,0.054
+1158,VWIAX,Real Estate,0.043
+1159,VWIAX,Utilities,0.076
+1160,IVOG,Communication Services,0.017
+1161,IVOG,Consumer Discretionary,0.137
+1162,IVOG,Consumer Staples,0.043
+1163,IVOG,Energy,0.097
+1164,IVOG,Financials,0.114
+1165,IVOG,Health Care,0.102
+1166,IVOG,Industrials,0.233
+1167,IVOG,Information Technology,0.096
+1168,IVOG,Materials,0.08
+1169,IVOG,Real Estate,0.045
+1170,IVOG,Utilities,0.036
+1171,VXF,Communication Services,0.041
+1172,VXF,Consumer Discretionary,0.108
+1173,VXF,Consumer Staples,0.03
+1174,VXF,Energy,0.055
+1175,VXF,Financials,0.163
+1176,VXF,Health Care,0.117
+1177,VXF,Industrials,0.185
+1178,VXF,Information Technology,0.182
+1179,VXF,Materials,0.042
+1180,VXF,Real Estate,0.058
+1181,VXF,Utilities,0.019
+1182,VFMF,Basic Materials,0.044
+1183,VFMF,Consumer Discretionary,0.205
+1184,VFMF,Consumer Staples,0.053
+1185,VFMF,Energy,0.141
+1186,VFMF,Financials,0.132
+1187,VFMF,Health Care,0.085
+1188,VFMF,Industrials,0.17
+1189,VFMF,Real Estate,0.004
+1190,VFMF,Technology,0.148
+1191,VFMF,Telecommunications,0.018
+1192,VIOO,Communication Services,0.029
+1193,VIOO,Consumer Discretionary,0.14
+1194,VIOO,Consumer Staples,0.052
+1195,VIOO,Energy,0.054
+1196,VIOO,Financials,0.183
+1197,VIOO,Health Care,0.102
+1198,VIOO,Industrials,0.173
+1199,VIOO,Information Technology,0.121
+1200,VIOO,Materials,0.05
+1201,VIOO,Real Estate,0.077
+1202,VIOO,Utilities,0.019
+1203,VBIAX,Basic Materials,0.02
+1204,VBIAX,Consumer Discretionary,0.141
+1205,VBIAX,Consumer Staples,0.052
+1206,VBIAX,Energy,0.048
+1207,VBIAX,Financials,0.105
+1208,VBIAX,Health Care,0.125
+1209,VBIAX,Industrials,0.128
+1210,VBIAX,Real Estate,0.028
+1211,VBIAX,Technology,0.303
+1212,VBIAX,Telecommunications,0.022
+1213,VBIAX,Utilities,0.028
+1214,VIMAX,Basic Materials,0.04
+1215,VIMAX,Consumer Discretionary,0.13
+1216,VIMAX,Consumer Staples,0.049
+1217,VIMAX,Energy,0.056
+1218,VIMAX,Financials,0.128
+1219,VIMAX,Health Care,0.097
+1220,VIMAX,Industrials,0.18
+1221,VIMAX,Real Estate,0.084
+1222,VIMAX,Technology,0.138
+1223,VIMAX,Telecommunications,0.019
+1224,VIMAX,Utilities,0.079
+1225,VIOV,Communication Services,0.038
+1226,VIOV,Consumer Discretionary,0.196
+1227,VIOV,Consumer Staples,0.037
+1228,VIOV,Energy,0.045
+1229,VIOV,Financials,0.2
+1230,VIOV,Health Care,0.08
+1231,VIOV,Industrials,0.154
+1232,VIOV,Information Technology,0.078
+1233,VIOV,Materials,0.044
+1234,VIOV,Real Estate,0.113
+1235,VIOV,Utilities,0.015
+1236,VHCAX,Communication Services,0.056
+1237,VHCAX,Consumer Discretionary,0.103
+1238,VHCAX,Energy,0.04
+1239,VHCAX,Financials,0.069
+1240,VHCAX,Health Care,0.344
+1241,VHCAX,Industrials,0.112
+1242,VHCAX,Information Technology,0.272
+1243,VHCAX,Materials,0.004
+1244,VITSX,Basic Materials,0.02
+1245,VITSX,Consumer Discretionary,0.141
+1246,VITSX,Consumer Staples,0.051
+1247,VITSX,Energy,0.048
+1248,VITSX,Financials,0.105
+1249,VITSX,Health Care,0.125
+1250,VITSX,Industrials,0.128
+1251,VITSX,Real Estate,0.028
+1252,VITSX,Technology,0.304
+1253,VITSX,Telecommunications,0.022
+1254,VITSX,Utilities,0.028
+1255,VLISX,Basic Materials,0.017
+1256,VLISX,Consumer Discretionary,0.14
+1257,VLISX,Consumer Staples,0.054
+1258,VLISX,Energy,0.045
+1259,VLISX,Financials,0.1
+1260,VLISX,Health Care,0.126
+1261,VLISX,Industrials,0.116
+1262,VLISX,Real Estate,0.023
+1263,VLISX,Technology,0.328
+1264,VLISX,Telecommunications,0.023
+1265,VLISX,Utilities,0.028
+1266,VTI,Basic Materials,0.02
+1267,VTI,Consumer Discretionary,0.141
+1268,VTI,Consumer Staples,0.051
+1269,VTI,Energy,0.048
+1270,VTI,Financials,0.105
+1271,VTI,Health Care,0.125
+1272,VTI,Industrials,0.128
+1273,VTI,Real Estate,0.028
+1274,VTI,Technology,0.304
+1275,VTI,Telecommunications,0.022
+1276,VTI,Utilities,0.028
+1277,VB,Basic Materials,0.038
+1278,VB,Consumer Discretionary,0.158
+1279,VB,Consumer Staples,0.036
+1280,VB,Energy,0.066
+1281,VB,Financials,0.138
+1282,VB,Health Care,0.104
+1283,VB,Industrials,0.218
+1284,VB,Real Estate,0.071
+1285,VB,Technology,0.126
+1286,VB,Telecommunications,0.013
+1287,VB,Utilities,0.032
+1288,VONV,Basic Materials,0.036
+1289,VONV,Consumer Discretionary,0.085
+1290,VONV,Consumer Staples,0.079
+1291,VONV,Energy,0.091
+1292,VONV,Financials,0.194
+1293,VONV,Health Care,0.144
+1294,VONV,Industrials,0.152
+1295,VONV,Real Estate,0.046
+1296,VONV,Technology,0.076
+1297,VONV,Telecommunications,0.043
+1298,VONV,Utilities,0.054
+1299,VNQ,Data Center REITs,0.091
+1300,VNQ,Diversified Real Estate Activities,0.002
+1301,VNQ,Diversified REITs,0.021
+1302,VNQ,Health Care REITs,0.084
+1303,VNQ,Hotel & Resort REITs,0.028
+1304,VNQ,Industrial REITs,0.121
+1305,VNQ,Multi-Family Residential REITs,0.086
+1306,VNQ,Office REITs,0.043
+1307,VNQ,Other Specialized REITs,0.061
+1308,VNQ,Real Estate Development,0.002
+1309,VNQ,Real Estate Operating Companies,0.004
+1310,VNQ,Real Estate Services,0.064
+1311,VNQ,Retail REITs,0.127
+1312,VNQ,Self-Storage REITs,0.062
+1313,VNQ,Single-Family Residential REITs,0.049
+1314,VNQ,Telecom Tower REITs,0.129
+1315,VNQ,Timber REITs,0.025
+1316,VTSAX,Basic Materials,0.02
+1317,VTSAX,Consumer Discretionary,0.141
+1318,VTSAX,Consumer Staples,0.051
+1319,VTSAX,Energy,0.048
+1320,VTSAX,Financials,0.105
+1321,VTSAX,Health Care,0.125
+1322,VTSAX,Industrials,0.128
+1323,VTSAX,Real Estate,0.028
+1324,VTSAX,Technology,0.304
+1325,VTSAX,Telecommunications,0.022
+1326,VTSAX,Utilities,0.028
+1327,VGSLX,Data Center REITs,0.091
+1328,VGSLX,Diversified Real Estate Activities,0.002
+1329,VGSLX,Diversified REITs,0.021
+1330,VGSLX,Health Care REITs,0.084
+1331,VGSLX,Hotel & Resort REITs,0.028
+1332,VGSLX,Industrial REITs,0.121
+1333,VGSLX,Multi-Family Residential REITs,0.086
+1334,VGSLX,Office REITs,0.043
+1335,VGSLX,Other Specialized REITs,0.061
+1336,VGSLX,Real Estate Development,0.002
+1337,VGSLX,Real Estate Operating Companies,0.004
+1338,VGSLX,Real Estate Services,0.064
+1339,VGSLX,Retail REITs,0.127
+1340,VGSLX,Self-Storage REITs,0.062
+1341,VGSLX,Single-Family Residential REITs,0.049
+1342,VGSLX,Telecom Tower REITs,0.129
+1343,VGSLX,Timber REITs,0.025
+1344,VGWIX,Communication Services,0.045
+1345,VGWIX,Consumer Discretionary,0.068
+1346,VGWIX,Consumer Staples,0.071
+1347,VGWIX,Energy,0.1
+1348,VGWIX,Financials,0.236
+1349,VGWIX,Health Care,0.15
+1350,VGWIX,Industrials,0.082
+1351,VGWIX,Information Technology,0.089
+1352,VGWIX,Materials,0.02
+1353,VGWIX,Real Estate,0.017
+1354,VGWIX,Utilities,0.122
+1355,VFVA,Basic Materials,0.064
+1356,VFVA,Consumer Discretionary,0.176
+1357,VFVA,Consumer Staples,0.058
+1358,VFVA,Energy,0.125
+1359,VFVA,Financials,0.269
+1360,VFVA,Health Care,0.075
+1361,VFVA,Industrials,0.133
+1362,VFVA,Real Estate,0.002
+1363,VFVA,Technology,0.058
+1364,VFVA,Telecommunications,0.04
+1365,VRGWX,Basic Materials,0.004
+1366,VRGWX,Consumer Discretionary,0.191
+1367,VRGWX,Consumer Staples,0.029
+1368,VRGWX,Energy,0.007
+1369,VRGWX,Financials,0.025
+1370,VRGWX,Health Care,0.107
+1371,VRGWX,Industrials,0.102
+1372,VRGWX,Real Estate,0.009
+1373,VRGWX,Technology,0.516
+1374,VRGWX,Telecommunications,0.007
+1375,VRGWX,Utilities,0.003
+1376,VWUAX,Communication Services,0.149
+1377,VWUAX,Consumer Discretionary,0.187
+1378,VWUAX,Consumer Staples,0.011
+1379,VWUAX,Energy,0.005
+1380,VWUAX,Financials,0.095
+1381,VWUAX,Health Care,0.107
+1382,VWUAX,Industrials,0.038
+1383,VWUAX,Information Technology,0.384
+1384,VWUAX,Materials,0.001
+1385,VWUAX,Real Estate,0.023
+1386,VFAIX,Asset Management & Custody Banks,0.074
+1387,VFAIX,Commercial & Residential Mortgage Financ,0.005
+1388,VFAIX,Consumer Finance,0.039
+1389,VFAIX,Diversified Banks,0.187
+1390,VFAIX,Diversified Financial Services,0.01
+1391,VFAIX,Financial Exchanges & Data,0.084
+1392,VFAIX,Insurance Brokers,0.05
+1393,VFAIX,Investment Banking & Brokerage,0.069
+1394,VFAIX,Life & Health Insurance,0.035
+1395,VFAIX,Mortgage REITs,0.009
+1396,VFAIX,Multi-line Insurance,0.015
+1397,VFAIX,Multi-Sector Holdings,0.087
+1398,VFAIX,Property & Casualty Insurance,0.081
+1399,VFAIX,Regional Banks,0.067
+1400,VFAIX,Reinsurance,0.008
+1401,VFAIX,Transaction & Payment Processing Service,0.18
+1402,VEXAX,Communication Services,0.041
+1403,VEXAX,Consumer Discretionary,0.108
+1404,VEXAX,Consumer Staples,0.03
+1405,VEXAX,Energy,0.055
+1406,VEXAX,Financials,0.163
+1407,VEXAX,Health Care,0.117
+1408,VEXAX,Industrials,0.185
+1409,VEXAX,Information Technology,0.182
+1410,VEXAX,Materials,0.042
+1411,VEXAX,Real Estate,0.058
+1412,VEXAX,Utilities,0.019
+1413,VBR,Basic Materials,0.051
+1414,VBR,Consumer Discretionary,0.155
+1415,VBR,Consumer Staples,0.035
+1416,VBR,Energy,0.059
+1417,VBR,Financials,0.21
+1418,VBR,Health Care,0.056
+1419,VBR,Industrials,0.237
+1420,VBR,Real Estate,0.084
+1421,VBR,Technology,0.057
+1422,VBR,Telecommunications,0.01
+1423,VBR,Utilities,0.046
+1424,VUIAX,Electric Utilities,0.623
+1425,VUIAX,Gas Utilities,0.043
+1426,VUIAX,Independent Power Producers & Energy Traders,0.021
+1427,VUIAX,Multi-Utilities,0.262
+1428,VUIAX,Renewable Electricity,0.01
+1429,VUIAX,Water Utilities,0.041
+1430,VGHAX,Biotechnology,0.201
+1431,VGHAX,Health Care Equipment,0.1
+1432,VGHAX,Health Care Facilities,0.024
+1433,VGHAX,Health Care Services,0.018
+1434,VGHAX,Health Care Supplies,0.011
+1435,VGHAX,Health Care Technology,0.002
+1436,VGHAX,Life Sciences Tools & Services,0.078
+1437,VGHAX,Managed Health Care,0.155
+1438,VGHAX,Pharmaceuticals,0.41
+1439,VBK,Basic Materials,0.02
+1440,VBK,Consumer Discretionary,0.16
+1441,VBK,Consumer Staples,0.036
+1442,VBK,Energy,0.076
+1443,VBK,Financials,0.043
+1444,VBK,Health Care,0.169
+1445,VBK,Industrials,0.193
+1446,VBK,Real Estate,0.055
+1447,VBK,Technology,0.217
+1448,VBK,Telecommunications,0.017
+1449,VBK,Utilities,0.014
+1450,VGHCX,Biotechnology,0.201
+1451,VGHCX,Health Care Equipment,0.1
+1452,VGHCX,Health Care Facilities,0.024
+1453,VGHCX,Health Care Services,0.018
+1454,VGHCX,Health Care Supplies,0.011
+1455,VGHCX,Health Care Technology,0.002
+1456,VGHCX,Life Sciences Tools & Services,0.078
+1457,VGHCX,Managed Health Care,0.155
+1458,VGHCX,Pharmaceuticals,0.41
+1459,VSPGX,Communication Services,0.075
+1460,VSPGX,Consumer Discretionary,0.102
+1461,VSPGX,Consumer Staples,0.064
+1462,VSPGX,Energy,0.069
+1463,VSPGX,Financials,0.075
+1464,VSPGX,Health Care,0.172
+1465,VSPGX,Industrials,0.052
+1466,VSPGX,Information Technology,0.359
+1467,VSPGX,Materials,0.019
+1468,VSPGX,Real Estate,0.008
+1469,VSPGX,Utilities,0.005
+1470,VIVIX,Basic Materials,0.021
+1471,VIVIX,Consumer Discretionary,0.055
+1472,VIVIX,Consumer Staples,0.109
+1473,VIVIX,Energy,0.081
+1474,VIVIX,Financials,0.191
+1475,VIVIX,Health Care,0.18
+1476,VIVIX,Industrials,0.15
+1477,VIVIX,Real Estate,0.03
+1478,VIVIX,Technology,0.085
+1479,VIVIX,Telecommunications,0.039
+1480,VIVIX,Utilities,0.059
+1481,VSMPX,Basic Materials,0.02
+1482,VSMPX,Consumer Discretionary,0.141
+1483,VSMPX,Consumer Staples,0.051
+1484,VSMPX,Energy,0.048
+1485,VSMPX,Financials,0.105
+1486,VSMPX,Health Care,0.125
+1487,VSMPX,Industrials,0.128
+1488,VSMPX,Real Estate,0.028
+1489,VSMPX,Technology,0.304
+1490,VSMPX,Telecommunications,0.022
+1491,VSMPX,Utilities,0.028
+1492,VGSNX,Data Center REITs,0.091
+1493,VGSNX,Diversified Real Estate Activities,0.002
+1494,VGSNX,Diversified REITs,0.021
+1495,VGSNX,Health Care REITs,0.084
+1496,VGSNX,Hotel & Resort REITs,0.028
+1497,VGSNX,Industrial REITs,0.121
+1498,VGSNX,Multi-Family Residential REITs,0.086
+1499,VGSNX,Office REITs,0.043
+1500,VGSNX,Other Specialized REITs,0.061
+1501,VGSNX,Real Estate Development,0.002
+1502,VGSNX,Real Estate Operating Companies,0.004
+1503,VGSNX,Real Estate Services,0.064
+1504,VGSNX,Retail REITs,0.127
+1505,VGSNX,Self-Storage REITs,0.062
+1506,VGSNX,Single-Family Residential REITs,0.049
+1507,VGSNX,Telecom Tower REITs,0.129
+1508,VGSNX,Timber REITs,0.025
+1509,VMVAX,Basic Materials,0.058
+1510,VMVAX,Consumer Discretionary,0.124
+1511,VMVAX,Consumer Staples,0.075
+1512,VMVAX,Energy,0.036
+1513,VMVAX,Financials,0.182
+1514,VMVAX,Health Care,0.079
+1515,VMVAX,Industrials,0.167
+1516,VMVAX,Real Estate,0.096
+1517,VMVAX,Technology,0.052
+1518,VMVAX,Utilities,0.131
+1519,VMGMX,Basic Materials,0.019
+1520,VMGMX,Consumer Discretionary,0.134
+1521,VMGMX,Consumer Staples,0.021
+1522,VMGMX,Energy,0.08
+1523,VMGMX,Financials,0.068
+1524,VMGMX,Health Care,0.118
+1525,VMGMX,Industrials,0.198
+1526,VMGMX,Real Estate,0.071
+1527,VMGMX,Technology,0.233
+1528,VMGMX,Telecommunications,0.039
+1529,VMGMX,Utilities,0.019
+1530,VINIX,Communication Services,0.087
+1531,VINIX,Consumer Discretionary,0.106
+1532,VINIX,Consumer Staples,0.066
+1533,VINIX,Energy,0.045
+1534,VINIX,Financials,0.127
+1535,VINIX,Health Care,0.132
+1536,VINIX,Industrials,0.083
+1537,VINIX,Information Technology,0.281
+1538,VINIX,Materials,0.024
+1539,VINIX,Real Estate,0.024
+1540,VINIX,Utilities,0.025
+1541,VONE,Basic Materials,0.019
+1542,VONE,Consumer Discretionary,0.141
+1543,VONE,Consumer Staples,0.052
+1544,VONE,Energy,0.046
+1545,VONE,Financials,0.104
+1546,VONE,Health Care,0.124
+1547,VONE,Industrials,0.126
+1548,VONE,Real Estate,0.026
+1549,VONE,Technology,0.311
+1550,VONE,Telecommunications,0.024
+1551,VONE,Utilities,0.027
+1552,VTMFX,Basic Materials,0.016
+1553,VTMFX,Consumer Discretionary,0.143
+1554,VTMFX,Consumer Staples,0.05
+1555,VTMFX,Energy,0.046
+1556,VTMFX,Financials,0.103
+1557,VTMFX,Health Care,0.123
+1558,VTMFX,Industrials,0.127
+1559,VTMFX,Real Estate,0.025
+1560,VTMFX,Technology,0.314
+1561,VTMFX,Telecommunications,0.024
+1562,VTMFX,Utilities,0.029
+1563,VMGRX,Communication Services,0.048
+1564,VMGRX,Consumer Discretionary,0.093
+1565,VMGRX,Consumer Staples,0.028
+1566,VMGRX,Energy,0.044
+1567,VMGRX,Financials,0.102
+1568,VMGRX,Health Care,0.196
+1569,VMGRX,Industrials,0.209
+1570,VMGRX,Information Technology,0.243
+1571,VMGRX,Materials,0.02
+1572,VMGRX,Real Estate,0.017
+1573,VOO,Communication Services,0.087
+1574,VOO,Consumer Discretionary,0.106
+1575,VOO,Consumer Staples,0.066
+1576,VOO,Energy,0.045
+1577,VOO,Financials,0.127
+1578,VOO,Health Care,0.132
+1579,VOO,Industrials,0.083
+1580,VOO,Information Technology,0.281
+1581,VOO,Materials,0.024
+1582,VOO,Real Estate,0.024
+1583,VOO,Utilities,0.025
+1584,VSGNX,Communication Services,0.021
+1585,VSGNX,Consumer Discretionary,0.08
+1586,VSGNX,Consumer Staples,0.067
+1587,VSGNX,Energy,0.062
+1588,VSGNX,Financials,0.165
+1589,VSGNX,Health Care,0.126
+1590,VSGNX,Industrials,0.192
+1591,VSGNX,Information Technology,0.165
+1592,VSGNX,Materials,0.059
+1593,VSGNX,Real Estate,0.039
+1594,VSGNX,Utilities,0.024
+1595,VGENX,Information Technology,0.006
+1596,VGENX,Integrated Oil & Gas,0.361
+1597,VGENX,Materials,0.004
+1598,VGENX,Oil & Gas Equipment & Services,0.039
+1599,VGENX,Oil & Gas Exploration & Production,0.158
+1600,VGENX,Oil & Gas Refining & Marketing,0.049
+1601,VGENX,Oil & Gas Storage & Transportation,0.065
+1602,VGENX,Utilities,0.319
+1603,ESGV,Basic Materials,0.018
+1604,ESGV,Consumer Discretionary,0.158
+1605,ESGV,Consumer Staples,0.053
+1606,ESGV,Energy,0.001
+1607,ESGV,Financials,0.102
+1608,ESGV,Health Care,0.139
+1609,ESGV,Industrials,0.106
+1610,ESGV,Real Estate,0.032
+1611,ESGV,Technology,0.358
+1612,ESGV,Telecommunications,0.027
+1613,ESGV,Utilities,0.006
+1614,VSCPX,Basic Materials,0.038
+1615,VSCPX,Consumer Discretionary,0.158
+1616,VSCPX,Consumer Staples,0.036
+1617,VSCPX,Energy,0.066
+1618,VSCPX,Financials,0.138
+1619,VSCPX,Health Care,0.104
+1620,VSCPX,Industrials,0.218
+1621,VSCPX,Real Estate,0.071
+1622,VSCPX,Technology,0.126
+1623,VSCPX,Telecommunications,0.013
+1624,VSCPX,Utilities,0.032
+1625,VEIPX,Communication Services,0.011
+1626,VEIPX,Consumer Discretionary,0.053
+1627,VEIPX,Consumer Staples,0.141
+1628,VEIPX,Energy,0.116
+1629,VEIPX,Financials,0.187
+1630,VEIPX,Health Care,0.154
+1631,VEIPX,Industrials,0.107
+1632,VEIPX,Information Technology,0.086
+1633,VEIPX,Materials,0.044
+1634,VEIPX,Real Estate,0.021
+1635,VEIPX,Utilities,0.08
+1636,VOOV,Communication Services,0.102
+1637,VOOV,Consumer Discretionary,0.111
+1638,VOOV,Consumer Staples,0.069
+1639,VOOV,Energy,0.017
+1640,VOOV,Financials,0.192
+1641,VOOV,Health Care,0.082
+1642,VOOV,Industrials,0.119
+1643,VOOV,Information Technology,0.186
+1644,VOOV,Materials,0.031
+1645,VOOV,Real Estate,0.042
+1646,VOOV,Utilities,0.049
+1647,VSEQX,Communication Services,0.036
+1648,VSEQX,Consumer Discretionary,0.117
+1649,VSEQX,Consumer Staples,0.043
+1650,VSEQX,Energy,0.06
+1651,VSEQX,Financials,0.145
+1652,VSEQX,Health Care,0.106
+1653,VSEQX,Industrials,0.184
+1654,VSEQX,Information Technology,0.136
+1655,VSEQX,Materials,0.058
+1656,VSEQX,Real Estate,0.066
+1657,VSEQX,Utilities,0.049
+1658,VIGAX,Basic Materials,0.014
+1659,VIGAX,Consumer Discretionary,0.21
+1660,VIGAX,Consumer Staples,0.007
+1661,VIGAX,Energy,0.015
+1662,VIGAX,Financials,0.024
+1663,VIGAX,Health Care,0.081
+1664,VIGAX,Industrials,0.088
+1665,VIGAX,Real Estate,0.018
+1666,VIGAX,Technology,0.531
+1667,VIGAX,Telecommunications,0.01
+1668,VIGAX,Utilities,0.002
+1669,VSMVX,Communication Services,0.038
+1670,VSMVX,Consumer Discretionary,0.196
+1671,VSMVX,Consumer Staples,0.037
+1672,VSMVX,Energy,0.045
+1673,VSMVX,Financials,0.2
+1674,VSMVX,Health Care,0.08
+1675,VSMVX,Industrials,0.154
+1676,VSMVX,Information Technology,0.078
+1677,VSMVX,Materials,0.044
+1678,VSMVX,Real Estate,0.113
+1679,VSMVX,Utilities,0.015
+1680,VGT,Application Software,0.151
+1681,VGT,Communications Equipment,0.038
+1682,VGT,Electronic Components,0.011
+1683,VGT,Electronic Equipment & Instruments,0.015
+1684,VGT,Electronic Manufacturing Services,0.012
+1685,VGT,Internet Services & Infrastructure,0.018
+1686,VGT,IT Consulting & Other Services,0.041
+1687,VGT,Semiconductor Materials & Equipment,0.036
+1688,VGT,Semiconductors,0.194
+1689,VGT,Systems Software,0.246
+1690,VGT,Technology Distributors,0.007
+1691,VGT,"Technology Hardware, Storage & Periphera",0.233
+1692,VENAX,Coal & Consumable Fuels,0.005
+1693,VENAX,Integrated Oil & Gas,0.382
+1694,VENAX,Oil & Gas Drilling,0.013
+1695,VENAX,Oil & Gas Equipment & Services,0.106
+1696,VENAX,Oil & Gas Exploration & Production,0.293
+1697,VENAX,Oil & Gas Refining & Marketing,0.098
+1698,VENAX,Oil & Gas Storage & Transportation,0.104
+1699,VEIRX,Communication Services,0.011
+1700,VEIRX,Consumer Discretionary,0.053
+1701,VEIRX,Consumer Staples,0.141
+1702,VEIRX,Energy,0.116
+1703,VEIRX,Financials,0.187
+1704,VEIRX,Health Care,0.154
+1705,VEIRX,Industrials,0.107
+1706,VEIRX,Information Technology,0.086
+1707,VEIRX,Materials,0.044
+1708,VEIRX,Real Estate,0.021
+1709,VEIRX,Utilities,0.08
+1710,VGELX,Information Technology,0.006
+1711,VGELX,Integrated Oil & Gas,0.361
+1712,VGELX,Materials,0.004
+1713,VGELX,Oil & Gas Equipment & Services,0.039
+1714,VGELX,Oil & Gas Exploration & Production,0.158
+1715,VGELX,Oil & Gas Refining & Marketing,0.049
+1716,VGELX,Oil & Gas Storage & Transportation,0.065
+1717,VGELX,Utilities,0.319
+1718,VSCIX,Basic Materials,0.038
+1719,VSCIX,Consumer Discretionary,0.158
+1720,VSCIX,Consumer Staples,0.036
+1721,VSCIX,Energy,0.066
+1722,VSCIX,Financials,0.138
+1723,VSCIX,Health Care,0.104
+1724,VSCIX,Industrials,0.218
+1725,VSCIX,Real Estate,0.071
+1726,VSCIX,Technology,0.126
+1727,VSCIX,Telecommunications,0.013
+1728,VSCIX,Utilities,0.032
+1729,VTV,Basic Materials,0.021
+1730,VTV,Consumer Discretionary,0.055
+1731,VTV,Consumer Staples,0.109
+1732,VTV,Energy,0.081
+1733,VTV,Financials,0.191
+1734,VTV,Health Care,0.18
+1735,VTV,Industrials,0.15
+1736,VTV,Real Estate,0.03
+1737,VTV,Technology,0.085
+1738,VTV,Telecommunications,0.039
+1739,VTV,Utilities,0.059
+1740,VITPX,Basic Materials,0.02
+1741,VITPX,Consumer Discretionary,0.141
+1742,VITPX,Consumer Staples,0.052
+1743,VITPX,Energy,0.048
+1744,VITPX,Financials,0.105
+1745,VITPX,Health Care,0.125
+1746,VITPX,Industrials,0.128
+1747,VITPX,Real Estate,0.028
+1748,VITPX,Technology,0.303
+1749,VITPX,Telecommunications,0.022
+1750,VITPX,Utilities,0.028
