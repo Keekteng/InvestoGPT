@@ -1,0 +1,614 @@
+,symbol,region,allocation
+0,VTIVX,North America,1.0
+1,VTMSX,North America,1.0
+2,VCORX,North America,1.0
+3,VBAIX,North America,1.0
+4,VWILX,Emerging Markets,0.177
+5,VWILX,Europe,0.52
+6,VWILX,Pacific,0.133
+7,VWILX,Middle East,0.009
+8,VWILX,North America,0.151
+9,VWILX,Other,0.01
+10,VTWV,North America,1.0
+11,VCDAX,North America,1.0
+12,VGWAX,Emerging Markets,0.011
+13,VGWAX,Europe,0.248
+14,VGWAX,Pacific,0.134
+15,VGWAX,North America,0.607
+16,VMLTX,North America,1.0
+17,VTSIX,North America,1.0
+18,VWELX,North America,1.0
+19,VGLT,North America,1.0
+20,VCIT,North America,1.0
+21,VDADX,North America,1.0
+22,VWNDX,North America,1.0
+23,VCEB,North America,1.0
+24,VASIX,North America,1.0
+25,VBILX,North America,1.0
+26,VFMV,North America,1.0
+27,VEXRX,North America,1.0
+28,VTCLX,North America,1.0
+29,VCPAX,North America,1.0
+30,VGCAX,Emerging Markets,0.061
+31,VGCAX,Europe,0.291
+32,VGCAX,Pacific,0.063
+33,VGCAX,Middle East,0.004
+34,VGCAX,North America,0.535
+35,VGCAX,Other,0.046
+36,VSPMX,North America,1.0
+37,VSPVX,North America,1.0
+38,VFIDX,North America,1.0
+39,VSMAX,North America,1.0
+40,VNJTX,North America,1.0
+41,VMNIX,North America,1.0
+42,VICSX,North America,1.0
+43,BNDX,Emerging Markets,0.069
+44,BNDX,Europe,0.572
+45,BNDX,Pacific,0.211
+46,BNDX,Middle East,0.003
+47,BNDX,North America,0.097
+48,BNDX,Other,0.048
+49,VUSTX,North America,1.0
+50,VEXPX,North America,1.0
+51,VMBIX,North America,1.0
+52,VFIFX,North America,1.0
+53,VEMBX,Emerging Markets,0.891
+54,VEMBX,Europe,0.007
+55,VEMBX,Middle East,0.023
+56,VEMBX,North America,0.07
+57,VEMBX,Other,0.009
+58,VMIAX,North America,1.0
+59,VEIGX,Emerging Markets,0.038
+60,VEIGX,Europe,0.326
+61,VEIGX,Pacific,0.103
+62,VEIGX,North America,0.533
+63,VWNFX,North America,1.0
+64,VSCGX,North America,1.0
+65,VSGBX,North America,1.0
+66,VBIUX,North America,1.0
+67,VBMPX,North America,1.0
+68,VWENX,North America,1.0
+69,VSVNX,North America,1.0
+70,VFMO,North America,1.0
+71,VFH,North America,1.0
+72,VIIIX,North America,1.0
+73,MGK,North America,1.0
+74,VWIUX,North America,1.0
+75,VINAX,North America,1.0
+76,VIEIX,North America,1.0
+77,VTSPX,North America,1.0
+78,VTWNX,North America,1.0
+79,VWINX,North America,1.0
+80,VQNPX,North America,1.0
+81,VTWO,North America,1.0
+82,VIOG,North America,1.0
+83,VAIPX,North America,1.0
+84,VTMNX,Emerging Markets,0.0
+85,VTMNX,Europe,0.536
+86,VTMNX,Pacific,0.364
+87,VTMNX,Middle East,0.005
+88,VTMNX,North America,0.094
+89,VTMNX,Other,0.001
+90,VDIGX,North America,1.0
+91,IVOO,North America,1.0
+92,VLXVX,North America,1.0
+93,VOX,North America,1.0
+94,VAW,North America,1.0
+95,VWSUX,North America,1.0
+96,VMGAX,North America,1.0
+97,VINEX,Emerging Markets,0.101
+98,VINEX,Europe,0.443
+99,VINEX,Pacific,0.381
+100,VINEX,Middle East,0.012
+101,VINEX,North America,0.036
+102,VINEX,Other,0.027
+103,VITAX,North America,1.0
+104,VMNVX,Emerging Markets,0.116
+105,VMNVX,Europe,0.092
+106,VMNVX,Pacific,0.192
+107,VMNVX,North America,0.6
+108,VSMGX,North America,1.0
+109,VDE,North America,1.0
+110,VSS,Emerging Markets,0.286
+111,VSS,Europe,0.31
+112,VSS,Pacific,0.246
+113,VSS,Middle East,0.008
+114,VSS,North America,0.149
+115,VSS,Other,0.001
+116,VFTNX,North America,1.0
+117,VIGIX,North America,1.0
+118,VPL,Emerging Markets,0.0
+119,VPL,Pacific,1.0
+120,VPL,Other,0.0
+121,VMSAX,North America,1.0
+122,VESGX,Emerging Markets,0.039
+123,VESGX,Europe,0.324
+124,VESGX,Pacific,0.104
+125,VESGX,North America,0.533
+126,VOHIX,North America,1.0
+127,VONG,North America,1.0
+128,VFWAX,Emerging Markets,0.255
+129,VFWAX,Europe,0.407
+130,VFWAX,Pacific,0.272
+131,VFWAX,Middle East,0.004
+132,VFWAX,North America,0.061
+133,VFWAX,Other,0.001
+134,VTES,North America,1.0
+135,VPU,North America,1.0
+136,VFFVX,North America,1.0
+137,VPADX,Emerging Markets,0.0
+138,VPADX,Pacific,1.0
+139,VPADX,Other,0.0
+140,VGYAX,Emerging Markets,0.026
+141,VGYAX,Europe,0.389
+142,VGYAX,Pacific,0.094
+143,VGYAX,North America,0.491
+144,VCAIX,North America,1.0
+145,VAGVX,North America,1.0
+146,VOT,North America,1.0
+147,VSBSX,North America,1.0
+148,IVOV,North America,1.0
+149,VIGI,Emerging Markets,0.096
+150,VIGI,Europe,0.491
+151,VIGI,Pacific,0.254
+152,VIGI,Middle East,0.0
+153,VIGI,North America,0.159
+154,VTIP,North America,1.0
+155,VWESX,North America,1.0
+156,VASVX,North America,1.0
+157,VSGDX,North America,1.0
+158,VGPMX,Emerging Markets,0.145
+159,VGPMX,Europe,0.357
+160,VGPMX,Pacific,0.079
+161,VGPMX,North America,0.412
+162,VGPMX,Other,0.007
+163,VUG,North America,1.0
+164,VWEHX,North America,1.0
+165,VT,Emerging Markets,0.101
+166,VT,Europe,0.156
+167,VT,Pacific,0.105
+168,VT,Middle East,0.002
+169,VT,North America,0.636
+170,VT,Other,0.0
+171,VADGX,North America,1.0
+172,VUSUX,North America,1.0
+173,VMFVX,North America,1.0
+174,VMBSX,North America,1.0
+175,VGRNX,Emerging Markets,0.209
+176,VGRNX,Europe,0.229
+177,VGRNX,Pacific,0.507
+178,VGRNX,Middle East,0.016
+179,VGRNX,North America,0.026
+180,VGRNX,Other,0.013
+181,VPMCX,North America,1.0
+182,VSIGX,North America,1.0
+183,VHT,North America,1.0
+184,VIHAX,Emerging Markets,0.216
+185,VIHAX,Europe,0.435
+186,VIHAX,Pacific,0.274
+187,VIHAX,Middle East,0.003
+188,VIHAX,North America,0.072
+189,VIHAX,Other,0.0
+190,VTINX,North America,1.0
+191,VRTTX,North America,1.0
+192,VEGBX,Emerging Markets,0.891
+193,VEGBX,Europe,0.007
+194,VEGBX,Middle East,0.023
+195,VEGBX,North America,0.07
+196,VEGBX,Other,0.009
+197,VWITX,North America,1.0
+198,VWETX,North America,1.0
+199,VIG,North America,1.0
+200,VTAPX,North America,1.0
+201,VBITX,North America,1.0
+202,VBIMX,North America,1.0
+203,VWAHX,North America,1.0
+204,VNQI,Emerging Markets,0.209
+205,VNQI,Europe,0.229
+206,VNQI,Pacific,0.507
+207,VNQI,Middle East,0.016
+208,VNQI,North America,0.026
+209,VNQI,Other,0.013
+210,VHCOX,North America,1.0
+211,VSGAX,North America,1.0
+212,VWNEX,North America,1.0
+213,VGIAX,North America,1.0
+214,VMLUX,North America,1.0
+215,VTILX,Emerging Markets,0.069
+216,VTILX,Europe,0.575
+217,VTILX,Pacific,0.207
+218,VTILX,Middle East,0.003
+219,VTILX,North America,0.097
+220,VTILX,Other,0.049
+221,VRTVX,North America,1.0
+222,VRNIX,North America,1.0
+223,VNJUX,North America,1.0
+224,VPMAX,North America,1.0
+225,VWUSX,North America,1.0
+226,VRVIX,North America,1.0
+227,VBLAX,North America,1.0
+228,VEMAX,Emerging Markets,0.995
+229,VEMAX,Europe,0.005
+230,VEMAX,Other,0.0
+231,VFSAX,Emerging Markets,0.281
+232,VFSAX,Europe,0.318
+233,VFSAX,Pacific,0.243
+234,VFSAX,Middle East,0.008
+235,VFSAX,North America,0.149
+236,VFSAX,Other,0.001
+237,VGRLX,Emerging Markets,0.209
+238,VGRLX,Europe,0.229
+239,VGRLX,Pacific,0.507
+240,VGRLX,Middle East,0.016
+241,VGRLX,North America,0.026
+242,VGRLX,Other,0.013
+243,VSBIX,North America,1.0
+244,VSIAX,North America,1.0
+245,VTCIX,North America,1.0
+246,VFIAX,North America,1.0
+247,VIDGX,North America,1.0
+248,VCLT,North America,1.0
+249,VGIT,North America,1.0
+250,VWNAX,North America,1.0
+251,VCLAX,North America,1.0
+252,VWALX,North America,1.0
+253,VBIRX,North America,1.0
+254,VZICX,Emerging Markets,0.258
+255,VZICX,Europe,0.438
+256,VZICX,Pacific,0.232
+257,VZICX,North America,0.064
+258,VZICX,Other,0.008
+259,VEOAX,Emerging Markets,0.28
+260,VEOAX,Europe,0.301
+261,VEOAX,North America,0.419
+262,VRTIX,North America,1.0
+263,VTWIX,Emerging Markets,0.101
+264,VTWIX,Europe,0.156
+265,VTWIX,Pacific,0.105
+266,VTWIX,Middle East,0.002
+267,VTWIX,North America,0.636
+268,VTWIX,Other,0.0
+269,VMVLX,North America,1.0
+270,VWSTX,North America,1.0
+271,VTSNX,Emerging Markets,0.258
+272,VTSNX,Europe,0.398
+273,VTSNX,Pacific,0.27
+274,VTSNX,Middle East,0.004
+275,VTSNX,North America,0.07
+276,VTSNX,Other,0.0
+277,VPCCX,North America,1.0
+278,VBIPX,North America,1.0
+279,VHCIX,North America,1.0
+280,VLCAX,North America,1.0
+281,VDC,North America,1.0
+282,VOOG,North America,1.0
+283,VUBFX,North America,1.0
+284,VFICX,North America,1.0
+285,VFMFX,North America,1.0
+286,VCITX,North America,1.0
+287,VIS,North America,1.0
+288,VGSH,North America,1.0
+289,BSV,North America,1.0
+290,VYM,North America,1.0
+291,VFITX,North America,1.0
+292,VSTCX,North America,1.0
+293,VEMPX,North America,1.0
+294,VUSFX,North America,1.0
+295,VLGSX,North America,1.0
+296,VYMI,Emerging Markets,0.216
+297,VYMI,Europe,0.435
+298,VYMI,Pacific,0.274
+299,VYMI,Middle East,0.003
+300,VYMI,North America,0.072
+301,VYMI,Other,0.0
+302,VEUPX,Europe,0.999
+303,VEUPX,Other,0.001
+304,VHYAX,North America,1.0
+305,VDEQX,North America,1.0
+306,VRTGX,North America,1.0
+307,VEVFX,North America,1.0
+308,VMCIX,North America,1.0
+309,VIPIX,North America,1.0
+310,VGSTX,North America,1.0
+311,VWIGX,Emerging Markets,0.177
+312,VWIGX,Europe,0.52
+313,VWIGX,Pacific,0.133
+314,VWIGX,Middle East,0.009
+315,VWIGX,North America,0.151
+316,VWIGX,Other,0.01
+317,VCOBX,North America,1.0
+318,VTIFX,Emerging Markets,0.069
+319,VTIFX,Europe,0.572
+320,VTIFX,Pacific,0.211
+321,VTIFX,Middle East,0.003
+322,VTIFX,North America,0.097
+323,VTIFX,Other,0.048
+324,VV,North America,1.0
+325,VITNX,North America,1.0
+326,VUSB,North America,1.0
+327,VTWG,North America,1.0
+328,VBTIX,North America,1.0
+329,VO,North America,1.0
+330,VNYUX,North America,1.0
+331,MGC,North America,1.0
+332,VSGX,Emerging Markets,0.266
+333,VSGX,Europe,0.374
+334,VSGX,Pacific,0.293
+335,VSGX,Middle East,0.004
+336,VSGX,North America,0.062
+337,VSGX,Other,0.001
+338,VMCPX,North America,1.0
+339,VSGIX,North America,1.0
+340,VTTHX,North America,1.0
+341,VFQY,North America,1.0
+342,VTTSX,North America,1.0
+343,VEMRX,Emerging Markets,0.995
+344,VEMRX,Europe,0.005
+345,VEMRX,Other,0.0
+346,VTRIX,Emerging Markets,0.207
+347,VTRIX,Europe,0.503
+348,VTRIX,Pacific,0.221
+349,VTRIX,North America,0.06
+350,VTRIX,Other,0.009
+351,VPAIX,North America,1.0
+352,VCADX,North America,1.0
+353,VMFGX,North America,1.0
+354,VVIAX,North America,1.0
+355,VCR,North America,1.0
+356,VFSIX,North America,1.0
+357,VEMIX,Emerging Markets,0.995
+358,VEMIX,Europe,0.005
+359,VEMIX,Other,0.0
+360,VBLIX,North America,1.0
+361,VSMSX,North America,1.0
+362,VFTAX,North America,1.0
+363,MGV,North America,1.0
+364,VMATX,North America,1.0
+365,VCMDX,North America,1.0
+366,VTHRX,North America,1.0
+367,VFIIX,North America,1.0
+368,VFIRX,North America,1.0
+369,VTCAX,North America,1.0
+370,VFWSX,Emerging Markets,0.255
+371,VFWSX,Europe,0.407
+372,VFWSX,Pacific,0.272
+373,VFWSX,Middle East,0.004
+374,VFWSX,North America,0.061
+375,VFWSX,Other,0.001
+376,VTEB,North America,1.0
+377,VSIIX,North America,1.0
+378,VCSAX,North America,1.0
+379,VOE,North America,1.0
+380,VTHR,North America,1.0
+381,VMNFX,North America,1.0
+382,VGWLX,Emerging Markets,0.011
+383,VGWLX,Europe,0.248
+384,VGWLX,Pacific,0.134
+385,VGWLX,North America,0.607
+386,VMCTX,North America,1.0
+387,VWIAX,North America,1.0
+388,VTWAX,Emerging Markets,0.101
+389,VTWAX,Europe,0.156
+390,VTWAX,Pacific,0.105
+391,VTWAX,Middle East,0.002
+392,VTWAX,North America,0.636
+393,VTWAX,Other,0.0
+394,IVOG,North America,1.0
+395,VMVFX,Emerging Markets,0.116
+396,VMVFX,Europe,0.092
+397,VMVFX,Pacific,0.192
+398,VMVFX,North America,0.6
+399,VXF,North America,1.0
+400,VFMF,North America,1.0
+401,VGIVX,Emerging Markets,0.984
+402,VGIVX,Europe,0.012
+403,VGIVX,Middle East,0.001
+404,VGIVX,North America,0.001
+405,VGIVX,Other,0.002
+406,VWO,Emerging Markets,0.995
+407,VWO,Europe,0.005
+408,VWO,Other,0.0
+409,VSCSX,North America,1.0
+410,VIOO,North America,1.0
+411,VEOIX,Emerging Markets,0.28
+412,VEOIX,Europe,0.301
+413,VEOIX,North America,0.419
+414,VBIAX,North America,1.0
+415,VWEAX,North America,1.0
+416,VIMAX,North America,1.0
+417,VIOV,North America,1.0
+418,VHCAX,North America,1.0
+419,VTMGX,Emerging Markets,0.0
+420,VTMGX,Europe,0.536
+421,VTMGX,Pacific,0.364
+422,VTMGX,Middle East,0.005
+423,VTMGX,North America,0.094
+424,VTMGX,Other,0.001
+425,VITSX,North America,1.0
+426,VWICX,Emerging Markets,0.258
+427,VWICX,Europe,0.438
+428,VWICX,Pacific,0.232
+429,VWICX,North America,0.064
+430,VWICX,Other,0.008
+431,VLISX,North America,1.0
+432,VTI,North America,1.0
+433,VIAAX,Emerging Markets,0.096
+434,VIAAX,Europe,0.491
+435,VIAAX,Pacific,0.254
+436,VIAAX,Middle East,0.0
+437,VIAAX,North America,0.159
+438,BLV,North America,1.0
+439,VXUS,Emerging Markets,0.258
+440,VXUS,Europe,0.398
+441,VXUS,Pacific,0.27
+442,VXUS,Middle East,0.004
+443,VXUS,North America,0.07
+444,VXUS,Other,0.0
+445,VB,North America,1.0
+446,VGK,Europe,0.999
+447,VGK,Other,0.001
+448,VONV,North America,1.0
+449,VWLTX,North America,1.0
+450,EDV,North America,1.0
+451,VFSTX,North America,1.0
+452,VLCIX,North America,1.0
+453,VGAVX,Emerging Markets,0.984
+454,VGAVX,Europe,0.012
+455,VGAVX,Middle East,0.001
+456,VGAVX,North America,0.001
+457,VGAVX,Other,0.002
+458,VNQ,North America,1.0
+459,VLTCX,North America,1.0
+460,VEUSX,Europe,0.999
+461,VEUSX,Other,0.001
+462,VTSAX,North America,1.0
+463,VNYTX,North America,1.0
+464,VGSLX,North America,1.0
+465,VGWIX,Emerging Markets,0.026
+466,VGWIX,Europe,0.389
+467,VGWIX,Pacific,0.094
+468,VGWIX,North America,0.491
+469,VPKIX,Emerging Markets,0.0
+470,VPKIX,Pacific,1.0
+471,VPKIX,Other,0.0
+472,VFVA,North America,1.0
+473,BND,North America,1.0
+474,VRGWX,North America,1.0
+475,VWUAX,North America,1.0
+476,VFAIX,North America,1.0
+477,VICBX,North America,1.0
+478,VEXAX,North America,1.0
+479,VBR,North America,1.0
+480,VPLS,North America,1.0
+481,VUIAX,North America,1.0
+482,VESIX,Europe,0.999
+483,VESIX,Other,0.001
+484,VCPIX,North America,1.0
+485,VGCIX,Emerging Markets,0.061
+486,VGCIX,Europe,0.291
+487,VGCIX,Pacific,0.063
+488,VGCIX,Middle East,0.004
+489,VGCIX,North America,0.535
+490,VGCIX,Other,0.046
+491,VGHAX,North America,1.0
+492,VBK,North America,1.0
+493,VGHCX,North America,1.0
+494,VFIUX,North America,1.0
+495,VLGIX,North America,1.0
+496,VEU,Emerging Markets,0.255
+497,VEU,Europe,0.407
+498,VEU,Pacific,0.272
+499,VEU,Middle East,0.004
+500,VEU,North America,0.061
+501,VEU,Other,0.001
+502,VSPGX,North America,1.0
+503,VSTBX,North America,1.0
+504,BIV,North America,1.0
+505,VWOB,Emerging Markets,0.984
+506,VWOB,Europe,0.012
+507,VWOB,Middle East,0.001
+508,VWOB,North America,0.001
+509,VWOB,Other,0.002
+510,VMBS,North America,1.0
+511,VIVIX,North America,1.0
+512,VSMPX,North America,1.0
+513,VGSNX,North America,1.0
+514,VIPSX,North America,1.0
+515,VDIPX,Emerging Markets,0.0
+516,VDIPX,Europe,0.536
+517,VDIPX,Pacific,0.364
+518,VDIPX,Middle East,0.005
+519,VDIPX,North America,0.094
+520,VDIPX,Other,0.001
+521,VMVAX,North America,1.0
+522,VMGMX,North America,1.0
+523,VINIX,North America,1.0
+524,VAIGX,North America,1.0
+525,VTABX,Emerging Markets,0.069
+526,VTABX,Europe,0.572
+527,VTABX,Pacific,0.211
+528,VTABX,Middle East,0.003
+529,VTABX,North America,0.097
+530,VTABX,Other,0.048
+531,VONE,North America,1.0
+532,VEA,Emerging Markets,0.0
+533,VEA,Europe,0.536
+534,VEA,Pacific,0.364
+535,VEA,Middle East,0.005
+536,VEA,North America,0.094
+537,VEA,Other,0.001
+538,VTMFX,North America,1.0
+539,VMGRX,North America,1.0
+540,VOO,North America,1.0
+541,VSGNX,North America,1.0
+542,VGENX,North America,1.0
+543,VHGEX,Emerging Markets,0.074
+544,VHGEX,Europe,0.232
+545,VHGEX,Pacific,0.076
+546,VHGEX,North America,0.616
+547,VHGEX,Other,0.002
+548,ESGV,North America,1.0
+549,VASGX,North America,1.0
+550,VSCPX,North America,1.0
+551,VMMSX,Emerging Markets,0.804
+552,VMMSX,Europe,0.025
+553,VMMSX,Pacific,0.113
+554,VMMSX,North America,0.058
+555,VEIPX,North America,1.0
+556,VFWPX,Emerging Markets,0.255
+557,VFWPX,Europe,0.407
+558,VFWPX,Pacific,0.272
+559,VFWPX,Middle East,0.004
+560,VFWPX,North America,0.061
+561,VFWPX,Other,0.001
+562,VFSUX,North America,1.0
+563,VFSNX,Emerging Markets,0.286
+564,VFSNX,Europe,0.31
+565,VFSNX,Pacific,0.246
+566,VFSNX,Middle East,0.008
+567,VFSNX,North America,0.149
+568,VFSNX,Other,0.001
+569,VFIJX,North America,1.0
+570,VWLUX,North America,1.0
+571,VOOV,North America,1.0
+572,VSEQX,North America,1.0
+573,VMSIX,North America,1.0
+574,VIGAX,North America,1.0
+575,VCSH,North America,1.0
+576,VBLLX,North America,1.0
+577,VSMVX,North America,1.0
+578,VGT,North America,1.0
+579,VENAX,North America,1.0
+580,VFISX,North America,1.0
+581,VEIRX,North America,1.0
+582,BNDW,Emerging Markets,0.039
+583,BNDW,Europe,0.292
+584,BNDW,Pacific,0.107
+585,BNDW,Middle East,0.002
+586,BNDW,North America,0.529
+587,BNDW,Other,0.031
+588,VPALX,North America,1.0
+589,VTC,North America,1.0
+590,VGELX,North America,1.0
+591,VSCIX,North America,1.0
+592,VFORX,North America,1.0
+593,VTEAX,North America,1.0
+594,VTV,North America,1.0
+595,VIIGX,North America,1.0
+596,VTTVX,North America,1.0
+597,VTPSX,Emerging Markets,0.258
+598,VTPSX,Europe,0.398
+599,VTPSX,Pacific,0.27
+600,VTPSX,Middle East,0.004
+601,VTPSX,North America,0.07
+602,VTPSX,Other,0.0
+603,VBTLX,North America,1.0
+604,VBPIX,North America,1.0
+605,VITPX,North America,1.0
+606,VTBIX,North America,1.0
+607,VTIAX,Emerging Markets,0.258
+608,VTIAX,Europe,0.398
+609,VTIAX,Pacific,0.27
+610,VTIAX,Middle East,0.004
+611,VTIAX,North America,0.07
+612,VTIAX,Other,0.0
