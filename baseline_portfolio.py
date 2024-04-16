@@ -91,22 +91,22 @@ Baseline Portfolio
 \"\"\"
 Symbol : VTBIX
 Asset Class : Fixed Income
-% Allocation : 27.90%
+% Allocation : 27.80%
 Risk Level : 2
 
 Symbol :  VTILX
 Asset Class : Fixed Income
-% Allocation : 12.00%
+% Allocation : 11.90%
 Risk Level : 2
 
 Symbol : VTSAX
 Asset Class : Equity
-% Allocation : 36.10%
+% Allocation : 36.00%
 Risk Level : 4
 
 Symbol :  VTIAX
 Asset Class : Equity
-% Allocation : 24.00%
+% Allocation : 24.30%
 Risk Level : 5
 
 \"\"\"
@@ -117,25 +117,25 @@ json_moderate_baseline = """
 [{
 "Symbol" : "VTBIX",
 "Asset Class" : "Fixed Income",
-"% Allocation" : "27.90%",
+"% Allocation" : "27.80%",
 "Risk Level" : "2"
 },
 {
 "Symbol" :  "VTILX",
 "Asset Class" : "Fixed Income",
-"% Allocation" : "12.00%",
+"% Allocation" : "11.90%",
 "Risk Level" : "2"
 },
 {
 "Symbol" :  "VTSAX",
 "Asset Class" : "Equity",
-"% Allocation" : "36.10%",
+"% Allocation" : "36.00%",
 "Risk Level" : "4"
 },
 {
 "Symbol" :  "VTIAX",
 "Asset Class" : "Equity",
-"% Allocation" : "24.00%",
+"% Allocation" : "24.30%",
 "Risk Level" : "5"
 }
 ]
@@ -147,22 +147,22 @@ Baseline Portfolio
 \"\"\"
 Symbol : VTBIX
 Asset Class : Fixed Income
-% Allocation : 27.90%
+% Allocation : 13.10%
 Risk Level : 2
 
 Symbol :  VTILX
 Asset Class : Fixed Income
-% Allocation : 12.00%
+% Allocation : 5.90%
 Risk Level : 2
 
 Symbol : VTSAX
 Asset Class : Equity
-% Allocation : 36.10%
+% Allocation : 49.10%
 Risk Level : 4
 
 Symbol :  VTIAX
 Asset Class : Equity
-% Allocation : 24.00%
+% Allocation : 31.90%
 Risk Level : 5
 
 \"\"\"
@@ -173,25 +173,25 @@ json_moderate_aggressive_baseline = """
 [{
 "Symbol" : "VTBIX",
 "Asset Class" : "Fixed Income",
-"% Allocation" : "27.90%",
+"% Allocation" : "13.10%",
 "Risk Level" : "2"
 },
 {
 "Symbol" :  "VTILX",
 "Asset Class" : "Fixed Income",
-"% Allocation" : "12.00%",
+"% Allocation" : "5.90%",
 "Risk Level" : "2"
 },
 {
 "Symbol" :  "VTSAX",
 "Asset Class" : "Equity",
-"% Allocation" : "36.10%",
+"% Allocation" : "49.10%",
 "Risk Level" : "4"
 },
 {
 "Symbol" :  "VTIAX",
 "Asset Class" : "Equity",
-"% Allocation" : "24.00%",
+"% Allocation" : "31.90%",
 "Risk Level" : "5"
 }
 ]

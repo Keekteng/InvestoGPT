@@ -52,8 +52,8 @@ reduced_margin_css ="""<style>
         </style>
         """
 
-file_id = "file-kNhCYwuf7WrrjSn2BTSWe8rO"
-assistant_id = "asst_KRChBi4IWj0QcPWGR7nFy4hC"
+file_id = "file-tit011QW2gdYtMYBICMhfLKd"
+assistant_id = "asst_RnhT52BHdoOaFpmBq7crVKxz"
 
 # Global Variable
 today_date = (datetime.datetime.now())
@@ -495,7 +495,7 @@ def plot_individual_fund_returns(prices_df,selected_portfolio_df):
     fig.update_layout(title='Returns by Funds',
                     xaxis_title='Date',
                     yaxis_title='Percentage Return',
-                    legend_title='Symbol',height=500,width=1000,template='gridon')
+                    legend_title='Symbol',height=500,width=750,template='gridon')
 
     # Display the figure in Streamlit
     st.subheader('Simple Returns')
@@ -504,13 +504,13 @@ def plot_individual_fund_returns(prices_df,selected_portfolio_df):
 
 def plot_geographical_allocation(df):
     fig = px.pie(df,names='region',values='investment_amt')
-    fig.update_traces(textinfo='label+percent')
+    fig.update_traces(textposition='inside',textinfo='label+percent')
     st.plotly_chart(fig,use_container_width=True)
     return
 
 def plot_sector_allocation(df):
     fig = px.pie(df,names='sector',values='investment_amt')
-    fig.update_traces(textinfo='label+percent')
+    fig.update_traces(textposition='inside',textinfo='label+percent')
     st.plotly_chart(fig,use_container_width=True)
     return
 
@@ -669,7 +669,7 @@ def plot_performance_tab(prices_df,selected_portfolio_df):
 
     # Plot Portfolio Graph
     st.subheader('Portfolio Value Over Time 📈')
-    fig = px.line(daily_portfolio_df,x='date',y=['Net Investment','Investment Value'],labels={'date':'Date','value':'Value'},height=500,width=1000,template='gridon')
+    fig = px.line(daily_portfolio_df,x='date',y=['Net Investment','Investment Value'],labels={'date':'Date','value':'Value'},height=500,width=750,template='gridon')
     st.plotly_chart(fig)
 
     plot_individual_fund_returns(prices_df,selected_portfolio_df)

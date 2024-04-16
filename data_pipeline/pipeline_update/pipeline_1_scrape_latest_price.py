@@ -106,8 +106,8 @@ def scrape_raw_data():
 
     try:
         for index,(symbol,url) in enumerate(tqdm(funds_url.items(),position=0,leave=True)):
-            if index<89:
-                continue
+            # if index<89:
+            #     continue
             with open(f'../../data/raw/{latest_date_str}/funds/{symbol}.json','r')as f:
                 fund_detail = json.load(f)
             driver = create_driver()
@@ -121,9 +121,10 @@ def scrape_raw_data():
         
         with open(f"{urls_output_dir}/funds_url.json",'w')as f:
             json.dump(funds_url,f)
+        
+        return True
             
     except Exception as e:
         print(f"ERROR --> {symbol}, Index --> {index}")
         print(e)
-    
-    return
+        return False

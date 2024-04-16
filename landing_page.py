@@ -50,6 +50,11 @@ authenticator = stauth.Authenticate(
 
 )
 
+if 'authentication_status' not in st.session_state:
+    st.session_state['authentication_status'] = False
+
+if not st.session_state['authentication_status']:
+    st.title("Welcome to InvestoGPT 📈")
 
 name,authentication_status,username = authenticator.login('Login', 'main')
 
@@ -85,8 +90,33 @@ if 'pages' not in st.session_state:
 if st.session_state["authentication_status"]:
 
     authenticator.logout('Logout', 'sidebar', key='unique_key')
-    st.sidebar.title(f'Welcome *{st.session_state["name"]}*')
-    
+
+    with st.sidebar:
+        st.title(f'Welcome *{st.session_state["name"]}*')
+        choice = st.selectbox('',
+                              options=['Reset Password','Update User Details'],
+                              index=None,
+                              placeholder='Select an Option',
+                              key='account_details')
+        if choice =='Reset Password':
+            try:
+                if authenticator.reset_password(username, 'Reset password'):
+                    with open('./auth.yaml', 'w') as file:
+                        yaml.dump(config, file, default_flow_style=False)
+                    st.success('Password modified successfully')
+                    time.sleep(2)
+            except Exception as e:
+                st.error(e)
+        else:
+            try:
+                if authenticator.update_user_details(username, 'Update User Details'):
+                    with open('./auth.yaml', 'w') as file:
+                        yaml.dump(config, file, default_flow_style=False)
+                    st.success('Entries updated successfully')
+                    time.sleep(2)
+            except Exception as e:
+                st.error(e)
+
     option_menu(
         menu_title = None,
         options=['Portfolio Overview','New Portfolio','Chatbot'],
@@ -111,7 +141,7 @@ if st.session_state["authentication_status"]:
             portfolio_id = int(selected_portfolio[-1])
 
         selected_portfolio_df = user_portfolio_df[user_portfolio_df['portfolio_id']==portfolio_id]
-        tab_list = ['Performance','Portfolio Allocation','Underlying Funds']
+        tab_list = ['Performance','Portfolio Allocation','Underlying Funds','Withdraw/Deposit Money']
         whitespace = 10
         tabs = st.tabs([s.center(whitespace,"\u2001") for s in tab_list])
         st.markdown(tab_css, unsafe_allow_html=True)
@@ -126,6 +156,18 @@ if st.session_state["authentication_status"]:
 
         with tabs[2]:
             plot_underlying_fund_tab(selected_portfolio_df)
+        
+        with tabs[3]:
+
+            def withdraw_deposit_callback():
+                return
+            
+
+            with st.form(key="withdraw_deposit_form"):
+                withdraw_deposit_choice = st.selectbox('Transaction Type',
+                            options=['Withdraw','Deposit'],index=None)
+                st.number_input(label="Amount",step=1.,format="%.2f",key='withdraw_deposit_amount')
+                submitted = st.form_submit_button("Submit",on_click=withdraw_deposit_callback)
 
     if st.session_state.option_menu_1 == 'New Portfolio':
 
@@ -192,6 +234,7 @@ if st.session_state["authentication_status"]:
                 return
 
             if not st.session_state.rec_form_submit_button:
+                st.subheader('Investor Profile Questionnaire')
                 with st.form(key="questionnaire"):
 
                     investment_horizon = st.slider("What is your investment horizon(years)?",1,40, 
@@ -269,6 +312,7 @@ if st.session_state["authentication_status"]:
                                     else:
                                         st.write('Aggressive')
                     else:
+                        st.subheader('Confirm Your Investment!')
                         rec_investment_amount = st.number_input(label="Investment Amount",step=1.,format="%.2f",key='rec_investment_amount')
 
                     return
@@ -309,7 +353,7 @@ if st.session_state["authentication_status"]:
 
         # DIY Portfolio Section
         else:
-            st.title("Construct your personal portfolio!")
+            st.subheader("Craft Your Customized Portfolio!")
 
             def diy_form_callback():
                 if validate_diy_portfolio():
@@ -406,14 +450,17 @@ elif st.session_state["authentication_status"] is None:
     st.warning('Please enter your username and password')
 
 if not authentication_status:
+
     keys = list(st.session_state.keys())
     for key in keys:
         st.session_state.pop(key)
     st.cache_data.clear()
+
     try:
         if authenticator.register_user('Register User', preauthorization=False):
             with open('./auth.yaml', 'w') as file:
                 yaml.dump(config, file, default_flow_style=False)
             st.success('User registered successfully')
+
     except Exception as e:
         st.error(e)

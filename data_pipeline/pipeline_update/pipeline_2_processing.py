@@ -45,10 +45,11 @@ def process_raw_data():
         price_df.to_csv(f'../../data/processed/{today_date}/price.csv')
             
         print("Processing Script Completed!")
+
+        return True
     except Exception as e:
         print(f"ERROR in Processing Script: {e}")
-        
-    return
+        return False
 
 
 
